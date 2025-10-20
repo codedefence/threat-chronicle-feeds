@@ -5,9 +5,31 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Oct 2025 21:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:05:02 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title><![CDATA[ISC Stormcast For Monday, October 20th, 2025 https://isc.sans.edu/podcastdetail/9662, (Sun, Oct 19th)]]></title>
+      <category>Other Noteworthy News</category>
+      <pubDate>Sun, 19 Oct 2025 19:45:21 GMT</pubDate>
+      <guid isPermaLink="false">d2ff9b2b-8c4f-4570-8a44-0c9771ed815e</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The ISC Stormcast for October 20th, 2025 (published October 19th) provides a daily summary of cybersecurity news and analysis. While the specific topics covered are not detailed in the provided description, these podcasts typically highlight recent threats, vulnerabilities, and security best practices.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses should regularly monitor such intelligence sources to stay informed about emerging threats and vulnerabilities that could impact their operations. Failure to do so can lead to increased risk of cyberattacks, potential data breaches, and operational disruptions, ultimately affecting financial stability and reputation.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The need for daily cybersecurity intelligence arises from the constantly evolving threat landscape, with new vulnerabilities and attack techniques emerging frequently. This continuous stream of information is critical for organizations to maintain an effective security posture and proactively address risks.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should ensure their security teams subscribe to and regularly review reputable cybersecurity intelligence feeds like the ISC Stormcast. Implement a process for rapidly assessing and acting upon critical intelligence, and allocate resources for continuous security training and technology updates to mitigate identified risks.</p>
+      ]]></description>
+      <link>https://isc.sans.edu/diary/rss/32382</link>
+    </item>
     <item>
       <title><![CDATA[TikTok videos continue to push infostealers in ClickFix attacks]]></title>
       <category>Top Incident/Vulnerability</category>
@@ -205,28 +227,6 @@
         <p>Executives should mandate an immediate, comprehensive audit of all critical enterprise applications, especially those from third-party vendors like Oracle, to identify and remediate vulnerabilities. Furthermore, enhance incident response plans to include clear communication strategies for data breaches involving subsidiaries and third-party extortion attempts.</p>
       ]]></description>
       <link>https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/</link>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft lifts more safeguard holds blocking Windows 11 updates]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Fri, 17 Oct 2025 17:22:16 GMT</pubDate>
-      <guid isPermaLink="false">25472154-cc60-4602-9315-280f2c419cc9</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Microsoft has lifted additional safeguard holds that were preventing some users from updating to Windows 11 24H2. These holds were in place due to compatibility issues with certain hardware or software configurations. The removal of these blocks indicates that Microsoft has resolved or mitigated the underlying problems.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This development allows more organizations to proceed with their Windows 11 24H2 deployments, potentially improving security posture through updated features and patches. Delayed updates can leave systems vulnerable to known exploits, so this facilitates a more secure and standardized IT environment. It also reduces operational friction for IT departments managing diverse hardware landscapes.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>Safeguard holds are a proactive measure by Microsoft to prevent widespread compatibility issues and system instability during major OS updates. These specific holds were likely due to identified conflicts with particular drivers, applications, or hardware components that have now been addressed through patches or updated compatibility data.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Organizations should review their update policies and consider initiating or accelerating the deployment of Windows 11 24H2 to eligible systems. IT teams should monitor Microsoft's release notes for any new safeguard holds or known issues before broad deployment. Ensure thorough testing on a representative sample of systems to confirm compatibility within your specific environment.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/</link>
     </item>
   </channel>
 </rss>
