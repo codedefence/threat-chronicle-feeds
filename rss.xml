@@ -5,9 +5,119 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 09:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 12:05:03 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title><![CDATA[French Football Federation faces own-goal after club software data breach]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Mon, 01 Dec 2025 11:41:03 GMT</pubDate>
+      <guid isPermaLink="false">a3bfa3d9-faef-4f69-be70-7eaf33894c24</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The French Football Federation (FFF) experienced a data breach involving its member management software. Attackers gained unauthorized access using a compromised account, leading to the exfiltration of player data including names, phone numbers, and license IDs.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This breach will likely result in significant reputational damage for the FFF, eroding trust among its members and the public. Potential financial penalties from regulatory bodies for data privacy violations are also a concern, alongside operational disruptions from incident response and recovery efforts.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The root cause of the breach was the compromise of an account used to access the FFF's member management software. This highlights weaknesses in access control mechanisms, potentially due to insufficient multi-factor authentication, weak password policies, or successful phishing attacks.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should mandate an immediate and thorough audit of all third-party software access and implement robust multi-factor authentication (MFA) across all critical systems. Furthermore, invest in comprehensive cybersecurity awareness training for all staff, emphasizing phishing detection and strong password practices.</p>
+      ]]></description>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/01/french_football_federation_breach/</link>
+    </item>
+    <item>
+      <title><![CDATA[CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Mon, 01 Dec 2025 11:06:58 GMT</pubDate>
+      <guid isPermaLink="false">2d412a23-5705-4098-bee2-59a3973c33fd</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>CISA has issued a warning regarding a critical vulnerability (CVE-2021-26829) in ScadaBR, an open-source SCADA system, by adding it to its Known Exploited Vulnerabilities (KEV) catalog. This alert follows an observed hacktivist attack targeting Industrial Control Systems (ICS) that leveraged this specific flaw. The vulnerability allows for remote code execution, posing a significant threat to operational technology environments.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing ScadaBR or similar open-source SCADA solutions face immediate operational risks, including potential disruption of critical infrastructure, data manipulation, or complete system takeover. The financial implications could involve significant downtime, recovery costs, and potential regulatory fines, alongside severe reputational damage due to service interruptions or security breaches.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability, CVE-2021-26829, is a remote code execution flaw in ScadaBR that has been actively exploited by hacktivist groups. The root cause lies in insecure coding practices or insufficient input validation within the ScadaBR application, allowing attackers to inject and execute malicious code remotely. The widespread use of unpatched or unsupported open-source ICS components contributes to the exploitability.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives must immediately identify all instances of ScadaBR or similar open-source SCADA systems within their operational technology (OT) environments and ensure they are patched to the latest secure versions. Implement robust network segmentation between IT and OT networks, and deploy continuous monitoring solutions to detect anomalous activity within ICS. Develop and regularly test incident response plans specifically for OT environments to minimize potential damage from successful attacks.</p>
+      ]]></description>
+      <link>https://www.securityweek.com/cisa-warns-of-scadabr-vulnerability-after-hacktivist-ics-attack/</link>
+    </item>
+    <item>
+      <title><![CDATA[Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Mon, 01 Dec 2025 09:03:07 GMT</pubDate>
+      <guid isPermaLink="false">4c7dce6d-1786-4be0-9be9-ea99672ef859</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>An Australian man, Michael Clapsis, has been sentenced to 7 years and 4 months in prison for conducting Wi-Fi attacks at airports and on flights. These attacks involved stealing sensitive information from victims. The severity of the sentence reflects the serious nature of the cybercrime committed.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This incident highlights the significant reputational and operational risks associated with insecure public Wi-Fi networks and in-flight connectivity. Businesses whose employees or customers utilize such networks are vulnerable to data theft, potentially leading to financial losses, regulatory fines, and erosion of trust. Organizations must consider the security implications of travel for their personnel and data.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The attacks likely exploited vulnerabilities in public and in-flight Wi-Fi network security, potentially including weak encryption, lack of proper authentication, or social engineering tactics. The perpetrator leveraged these weaknesses to intercept and steal sensitive data. The root cause lies in the inherent insecurity of many public network infrastructures.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should mandate the use of Virtual Private Networks (VPNs) for all employees accessing public or in-flight Wi-Fi. Implement robust security awareness training to educate staff on the risks of public networks and phishing. Furthermore, evaluate and enhance security protocols for any company-provided mobile or travel-related connectivity solutions.</p>
+      ]]></description>
+      <link>https://www.securityweek.com/australian-man-sentenced-to-prison-for-wi-fi-attacks-at-airports-and-on-flights/</link>
+    </item>
+    <item>
+      <title><![CDATA[Police takes down Cryptomixer cryptocurrency mixing service]]></title>
+      <category>Regulatory Compliance/Industry Impact</category>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">10232f04-52ff-41d3-92be-dd1fefeebebf</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Law enforcement agencies in Switzerland and Germany successfully dismantled Cryptomixer, a prominent cryptocurrency mixing service. This operation targeted a key tool used by cybercriminals to launder illicitly obtained funds, disrupting their ability to obscure financial transactions.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This takedown reduces the avenues available for cybercriminals to launder proceeds from ransomware attacks and other financial crimes, potentially making such activities less attractive or harder to execute. Businesses may see a slight decrease in the effectiveness of ransomware attacks if criminals struggle to cash out, though new mixing services will likely emerge. It also signals increased international cooperation against cybercrime.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>Cryptomixer operated as a centralized service designed to obfuscate the origin and destination of cryptocurrency transactions, a critical step for cybercriminals to legitimize stolen funds. Its operation facilitated money laundering, making it a prime target for law enforcement seeking to disrupt the financial infrastructure of cybercrime.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should ensure their organizations have robust anti-money laundering (AML) and know-your-customer (KYC) policies, especially if dealing with cryptocurrency. Invest in advanced threat intelligence to monitor emerging money laundering techniques and maintain strong relationships with law enforcement to report suspicious activities promptly.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/</link>
+    </item>
+    <item>
+      <title><![CDATA[New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Mon, 01 Dec 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="false">9bd3fc1e-7b50-4c79-89f5-dbfe8193757b</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A new Android malware, Albiriox, is being offered as a Malware-as-a-Service (MaaS) solution, enabling threat actors to conduct on-device fraud (ODF), screen manipulation, and real-time interaction with compromised devices. This sophisticated malware targets over 400 applications, including those in banking, fintech, payment processing, and cryptocurrency sectors.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses in the financial sector, including banks, fintech companies, and cryptocurrency platforms, face significant financial losses due to fraud and potential reputational damage from customer data breaches. Operational disruptions may occur as organizations respond to incidents and implement enhanced security measures.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The emergence of Albiriox highlights the growing sophistication of MaaS offerings, lowering the barrier to entry for cybercriminals. The malware exploits vulnerabilities in Android device security and user trust, leveraging social engineering or other distribution methods to gain initial access.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should mandate immediate reviews of mobile application security postures, particularly for Android platforms, and enhance fraud detection systems. Invest in advanced threat intelligence to monitor for new MaaS offerings like Albiriox and ensure robust incident response plans are in place and regularly tested.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html</link>
+    </item>
     <item>
       <title><![CDATA[Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets]]></title>
       <category>IAM/Zero Trust/Geopolitics</category>
@@ -29,6 +139,50 @@
         <p>Executives should mandate a review of network monitoring capabilities to detect anomalous traffic patterns on public communication platforms, even if they are generally permitted. Implement advanced threat detection solutions capable of behavioral analysis and C2 channel identification. Furthermore, reinforce employee training on social engineering and phishing to prevent initial access vectors that could lead to implant deployment.</p>
       ]]></description>
       <link>https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Google and Apple ordered to stop fake government TXTs]]></title>
+      <category>Regulatory Compliance/Industry Impact</category>
+      <pubDate>Mon, 01 Dec 2025 01:52:00 GMT</pubDate>
+      <guid isPermaLink="false">aafecbe7-e10c-4446-93f5-bcfa9f48af5f</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Singapore's government has mandated that Google and Apple implement measures to prevent the delivery of fake government messages to citizens. This directive aims to combat misinformation and phishing attempts that leverage the credibility of official communications.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses operating in Singapore, particularly those in the tech sector, face increased regulatory scrutiny and potential compliance costs to implement these preventative measures. Failure to comply could result in fines, reputational damage, and a loss of trust from both the government and consumers.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The proliferation of sophisticated phishing and scam campaigns using fake government messages has necessitated government intervention. These scams exploit user trust in official communications and the widespread use of mobile platforms for information dissemination.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should ensure their organizations have robust internal policies and technical controls to identify and mitigate the spread of misinformation and phishing. Collaborate with platform providers to understand and implement new regulatory requirements, and educate employees and customers on identifying fake communications.</p>
+      ]]></description>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/01/asia_tech_news_roundup/</link>
+    </item>
+    <item>
+      <title><![CDATA[Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption]]></title>
+      <category>Regulatory Compliance/Industry Impact</category>
+      <pubDate>Mon, 01 Dec 2025 00:05:04 GMT</pubDate>
+      <guid isPermaLink="false">33513d2f-b629-475d-942d-93c3092aa55b</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Switzerland's Conference of Data Protection Officers (Privatim) has issued a resolution advising Swiss public bodies against using hyperscale cloud and SaaS services, including Microsoft 365, due to a lack of end-to-end encryption and associated security concerns. This directive highlights a growing regulatory skepticism towards the security posture of widely adopted cloud solutions.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This regulatory stance could significantly impact cloud service providers' market penetration in Switzerland and potentially influence similar decisions in other privacy-conscious nations. Businesses relying on these services for public sector contracts in Switzerland may face operational disruptions and increased compliance costs if forced to migrate data or adopt alternative solutions.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The primary concern stems from the perceived absence of robust end-to-end encryption in many mainstream cloud and SaaS offerings, leaving data vulnerable to unauthorized access or surveillance. This lack of control over encryption keys and data residency raises significant data protection and sovereignty issues for government entities.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should reassess their cloud strategy, prioritizing solutions offering verifiable end-to-end encryption and clear data residency guarantees, especially for sensitive data. Engage with legal and compliance teams to understand evolving data protection regulations and ensure current cloud deployments meet or exceed these standards to mitigate future regulatory risks.</p>
+      ]]></description>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/</link>
     </item>
     <item>
       <title><![CDATA[CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV]]></title>
@@ -73,160 +227,6 @@
         <p>Executives should prioritize a comprehensive review of their cybersecurity posture, focusing on threat detection, incident response capabilities, and data protection measures. Implement robust employee training on cybersecurity best practices and consider investing in advanced security technologies to prevent future breaches and protect sensitive data.</p>
       ]]></description>
       <link>https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/</link>
-    </item>
-    <item>
-      <title><![CDATA[Leak confirms OpenAI is preparing ads on ChatGPT for public roll out]]></title>
-      <category>AI/ML in Cybersecurity</category>
-      <pubDate>Sat, 29 Nov 2025 11:31:22 GMT</pubDate>
-      <guid isPermaLink="false">d3a0b8bc-7be0-4907-87e7-07e8a7a86ebb</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>OpenAI is reportedly testing an advertising model within ChatGPT, signaling a potential shift in its revenue strategy and the broader AI landscape. This development suggests a move towards monetizing its popular AI chatbot beyond subscription services.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This could significantly impact businesses relying on ad-supported models, potentially increasing competition for user attention and ad revenue within AI platforms. Companies utilizing ChatGPT for internal operations may face new considerations regarding data privacy and user experience if ads are integrated.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The move is likely driven by OpenAI's need to diversify revenue streams and achieve profitability, given the high operational costs associated with developing and running advanced AI models. Monetization through advertising is a common strategy for widely adopted digital platforms.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should evaluate their current and future AI strategies, considering how ad integration in platforms like ChatGPT might affect their marketing and operational costs. It is crucial to monitor OpenAI's official announcements and assess potential impacts on data privacy and user engagement within AI tools.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/</link>
-    </item>
-    <item>
-      <title><![CDATA[Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Fri, 28 Nov 2025 18:25:28 GMT</pubDate>
-      <guid isPermaLink="false">bc960a74-87e4-418d-b5d2-aa8ffde0aef9</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A 44-year-old individual received a seven-year prison sentence for orchestrating 'evil twin' WiFi attacks at Australian airports. He created fake WiFi networks to intercept and steal sensitive data from unsuspecting travelers. This highlights the ongoing threat of sophisticated social engineering and network-based attacks.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident underscores the reputational and financial risks associated with public WiFi security for businesses operating in public spaces or those whose employees frequently travel. Data breaches resulting from such attacks can lead to significant financial losses, regulatory fines, and severe damage to customer trust. Businesses must ensure robust security protocols extend to employee travel and public network usage.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The attacks exploited the common user vulnerability of trusting seemingly legitimate public WiFi networks without proper verification. The perpetrator leveraged readily available technology to mimic legitimate networks, preying on the desire for convenient internet access. A lack of user awareness and inadequate security measures on personal devices contributed to the success of these attacks.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate comprehensive cybersecurity awareness training for all employees, emphasizing the dangers of public WiFi and the importance of using VPNs. Implement and enforce strict mobile device management (MDM) policies that include mandatory VPN usage and secure network configurations for all company-issued devices. Regularly audit and update security protocols to mitigate evolving social engineering and network-based threats.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/</link>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft: Windows updates make password login option invisible]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 28 Nov 2025 18:07:17 GMT</pubDate>
-      <guid isPermaLink="false">dc6be13a-978b-4fda-bd14-28ac01b09c5c</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Microsoft has issued a warning that recent Windows 11 updates, specifically those released since August, may cause the password sign-in option to become invisible on the lock screen. While the button remains functional, its disappearance can lead to user confusion and perceived login issues.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This issue can lead to increased help desk calls and support costs due to user confusion and perceived login failures, impacting operational efficiency. It may also cause minor productivity losses as users navigate the unexpected change, potentially affecting employee satisfaction with IT systems.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The root cause appears to be a software bug introduced in recent Windows 11 updates that affects the graphical user interface (GUI) for login options. This is a software defect rather than a security vulnerability or external attack.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Communicate proactively to employees about this known Windows 11 issue, providing clear instructions on how to proceed with password login despite the invisible option. Ensure IT support teams are aware of the problem and equipped with solutions to minimize disruption and user frustration.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/</link>
-    </item>
-    <item>
-      <title><![CDATA[Public GitLab repositories exposed more than 17,000 secrets]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 28 Nov 2025 17:43:02 GMT</pubDate>
-      <guid isPermaLink="false">aa8844ce-1f1d-487f-9d03-ecc0d4f08f62</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A security engineer identified over 17,000 exposed secrets across 2,800 unique domains within public GitLab Cloud repositories. These secrets, including API keys and credentials, were inadvertently made public, posing a significant data exposure risk.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses face severe financial and reputational damage due to potential unauthorized access to their systems and data. Exposed secrets can lead to data breaches, service disruptions, and regulatory fines, eroding customer trust and shareholder value.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The primary cause is developers inadvertently committing sensitive information directly into public repositories. This often stems from a lack of awareness regarding secure coding practices and insufficient automated secret detection tools during the development lifecycle.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Implement mandatory developer training on secure coding practices and secret management. Deploy automated secret scanning tools within CI/CD pipelines to detect and prevent sensitive data from being committed to public repositories. Establish clear policies for credential management and rotation.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/</link>
-    </item>
-    <item>
-      <title><![CDATA[Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Fri, 28 Nov 2025 16:27:00 GMT</pubDate>
-      <guid isPermaLink="false">bf8bb760-0ba9-48df-b357-812b6275a200</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Cybersecurity researchers at ReversingLabs have identified a vulnerability in legacy Python bootstrap scripts within multiple PyPI packages. This flaw, stemming from the 'zc.buildout' automation tool, creates a risk of domain takeover. If exploited, this could lead to a significant supply chain compromise on the Python Package Index.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses relying on vulnerable PyPI packages face a heightened risk of software supply chain attacks, potentially leading to data breaches, system compromise, and operational disruption. The reputational damage from being associated with a compromised software supply chain could be severe, impacting customer trust and market standing. Remediation efforts for widespread compromise could also incur significant financial costs.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability originates from insecure legacy bootstrap files provided by the 'zc.buildout' build and deployment automation tool. These older scripts likely contain weaknesses that, when present in PyPI packages, can be exploited for domain takeover. The continued use of unpatched or outdated components in the software supply chain is a primary contributing factor.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executive leadership should mandate an immediate audit of all Python projects to identify and update or remove any dependencies on packages utilizing 'zc.buildout' or other legacy bootstrap scripts. Implement stringent software supply chain security practices, including regular vulnerability scanning and dependency management for all third-party libraries. Prioritize the adoption of secure development lifecycle (SDLC) practices to prevent the introduction of similar vulnerabilities in future projects.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html</link>
-    </item>
-    <item>
-      <title><![CDATA[North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Fri, 28 Nov 2025 16:18:00 GMT</pubDate>
-      <guid isPermaLink="false">e6bb91a3-7dbc-4ece-b60c-3c4e66bcf8f9</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>North Korean threat actors have deployed 197 new malicious npm packages, downloaded over 31,000 times, to spread an updated variant of the OtterCookie malware. This campaign, known as 'Contagious Interview,' targets developers through compromised software supply chains.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations using npm packages are at high risk of supply chain compromise, leading to potential data breaches, system disruption, and intellectual property theft. The widespread downloads indicate a significant operational risk for development teams and a reputational risk for affected software projects.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The incident leverages the trust placed in public package registries like npm and exploits the common practice of developers integrating third-party libraries without stringent security vetting. The attackers are continuously evolving their malware and distribution methods to bypass detection.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Implement automated software supply chain security scanning for all third-party dependencies. Mandate strict security policies for package usage, including vetting and sandboxing, and educate development teams on the risks of malicious packages. Consider adopting a 'zero-trust' approach to third-party code.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html</link>
-    </item>
-    <item>
-      <title><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 28 Nov 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">57a3d5e6-d2b6-4da0-ba20-537cb0e937d2</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>CISA has added one new vulnerability, CVE-2021-26829 (OpenPLC ScadaBR Cross-site Scripting Vulnerability), to its Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. This addition highlights a critical security flaw that is frequently leveraged by malicious cyber actors.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations, particularly those utilizing OpenPLC ScadaBR, face immediate operational risks from potential exploitation of this vulnerability, which could lead to unauthorized access, data compromise, or disruption of industrial control systems. Failure to remediate promptly can result in significant financial losses from incident response, regulatory fines, and reputational damage.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability, CVE-2021-26829, is a Cross-site Scripting (XSS) flaw within OpenPLC ScadaBR, allowing attackers to inject malicious scripts into web applications. This type of vulnerability arises from insufficient input validation and output encoding, enabling attackers to execute arbitrary code in a user's browser.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives must ensure immediate patching or mitigation of CVE-2021-26829 if OpenPLC ScadaBR is in use within their organization. Furthermore, all organizations should prioritize regular review and remediation of vulnerabilities listed in CISA's KEV Catalog as a core component of their vulnerability management program to reduce overall cyber risk.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2025/11/28/cisa-adds-one-known-exploited-vulnerability-catalog</link>
     </item>
   </channel>
 </rss>
