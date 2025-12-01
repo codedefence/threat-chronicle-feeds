@@ -5,228 +5,228 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 03:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 06:05:04 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title><![CDATA[MIT Sloan quietly shelves AI ransomware study after researcher calls BS]]></title>
-      <category>AI/ML in Cybersecurity</category>
-      <pubDate>Mon, 03 Nov 2025 22:31:06 GMT</pubDate>
-      <guid isPermaLink="false">abadb8e0-50b9-40f3-a98c-74188b091ad4</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>MIT Sloan withdrew a working paper claiming '80% of ransomware attacks are AI-driven' after a security researcher publicly challenged the methodology and findings. This retraction highlights a significant overstatement regarding the current role of AI in ransomware attacks.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses should be wary of exaggerated claims about AI's current involvement in cyberattacks, as such misinformation can lead to misallocated resources and ineffective cybersecurity strategies. Overstating AI's role can distract from addressing more prevalent attack vectors and fundamental security weaknesses.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The incident stemmed from a research paper making an unsubstantiated and highly improbable claim about AI's prevalence in ransomware, which was not adequately vetted before publication. The lack of rigorous peer review or critical analysis prior to release led to the dissemination of misleading information.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should critically evaluate claims about emerging technologies in cybersecurity, especially those lacking robust evidence or peer validation. Prioritize investments in foundational cybersecurity practices and proven defenses, rather than reacting to sensationalized or unverified threats.</p>
-      ]]></description>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/</link>
-    </item>
-    <item>
-      <title><![CDATA[Ransomware negotiator, pay thyself!]]></title>
-      <category>Regulatory Compliance/Industry Impact</category>
-      <pubDate>Mon, 03 Nov 2025 22:06:22 GMT</pubDate>
-      <guid isPermaLink="false">d6f7bc2a-729a-4744-a0cb-45b479e1566c</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Two cybersecurity professionals, a ransomware negotiator and an incident response manager, have been indicted for orchestrating ransomware attacks against US companies while employed by infosec firms. They allegedly exploited their insider knowledge and access to compromise organizations they were ostensibly hired to protect or assist.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident severely erodes trust in third-party cybersecurity vendors and incident response firms, potentially leading to increased scrutiny and reluctance to engage external experts during critical incidents. Businesses face heightened reputational risk and financial exposure if their trusted partners become adversaries, necessitating more rigorous vetting and oversight of cybersecurity service providers.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The root cause appears to be individual malfeasance driven by financial gain, exploiting privileged access and insider knowledge inherent to their roles within cybersecurity firms. The lack of sufficient internal controls or oversight within their respective companies likely enabled these individuals to carry out their illicit activities undetected for a period.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate a comprehensive review of third-party vendor management policies, focusing on enhanced background checks, continuous monitoring, and strict access controls for cybersecurity service providers. Implement robust internal audit processes and segregation of duties within incident response teams to prevent single points of failure and detect potential insider threats.</p>
-      ]]></description>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/rogue_ransomware_negotiators/</link>
-    </item>
-    <item>
-      <title><![CDATA[Hacker steals over $120 million from Balancer DeFi crypto protocol]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Mon, 03 Nov 2025 21:53:35 GMT</pubDate>
-      <guid isPermaLink="false">bbc6872c-5371-4dde-a2ee-7928ea9f9791</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The Balancer DeFi crypto protocol experienced a significant security breach, resulting in the theft of over $120 million from its v2 liquidity pools. This incident highlights the persistent and evolving threats targeting decentralized finance platforms.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This breach directly impacts Balancer's financial stability and user trust, potentially leading to reduced platform usage and investor confidence in DeFi. For other businesses operating in the crypto space, it underscores the critical need for robust security measures to prevent similar financial losses and reputational damage.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The attack exploited a vulnerability within Balancer's v2 pools, allowing unauthorized withdrawal of funds. While specific technical details are pending, such incidents often stem from smart contract vulnerabilities, inadequate auditing, or sophisticated flash loan attacks.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate immediate, comprehensive security audits of all smart contracts and DeFi protocols in use or under development. Furthermore, implement continuous monitoring for anomalous transactions and establish rapid incident response plans to mitigate financial and reputational damage from future attacks.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/</link>
-    </item>
-    <item>
-      <title><![CDATA[This 30-second routine keeps my Samsung Galaxy watch running like new every month]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Mon, 03 Nov 2025 21:20:00 GMT</pubDate>
-      <guid isPermaLink="false">625e7ba6-efd8-4cc4-a4c0-92f07763d07f</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A simple 30-second routine, involving a soft reset or reboot, is highlighted as an effective method to maintain optimal performance for Samsung Galaxy smartwatches. This routine can address common issues such as battery drain, software glitches, and general lag, thereby extending the device's perceived lifespan and user satisfaction.</p>
-        
-        <h3>Business Impact</h3>
-        <p>While directly impacting individual users, this type of information indirectly benefits businesses that rely on employee-owned or company-provided smart devices for productivity or health monitoring. Proactive maintenance tips can reduce IT support requests related to device performance, improve employee efficiency, and potentially extend hardware refresh cycles, leading to cost savings.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>Electronic devices, including smartwatches, accumulate temporary files, cache data, and background processes over time, which can degrade performance and battery life. A regular reboot clears these temporary states, refreshes system resources, and resolves minor software conflicts without requiring a full factory reset.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should encourage IT departments to disseminate best practices for device maintenance, including regular reboots for smart devices and smartphones, to all employees. Consider incorporating such tips into employee onboarding or regular IT security awareness training to promote device longevity and reduce support overhead.</p>
-      ]]></description>
-      <link>https://www.zdnet.com/article/this-30-second-routine-keeps-my-samsung-galaxy-watch-running-like-new-every-month/</link>
-    </item>
-    <item>
-      <title><![CDATA[This popular Fitbit is $80 off, and comes with a $20 Amazon credit - here's how to cash in]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Mon, 03 Nov 2025 21:01:48 GMT</pubDate>
-      <guid isPermaLink="false">d16dd711-85a6-42db-82f6-e13ccd2b1e36</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A popular consumer wearable device, the Fitbit Versa 4, is currently available at a significant discount, exceeding previous promotional prices. This sale includes an additional Amazon credit, making it an attractive offer for individual consumers.</p>
-        
-        <h3>Business Impact</h3>
-        <p>While this specific news pertains to consumer sales, it highlights the competitive nature of the wearable technology market. Businesses in this sector must continuously innovate and offer compelling value propositions to maintain market share and profitability, especially during peak shopping seasons.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The price reduction is likely a strategic marketing and sales initiative by Fitbit and Amazon to boost sales volume and clear inventory, potentially ahead of new product releases or to capitalize on holiday shopping trends. This is a common practice in the consumer electronics industry.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives in consumer electronics should monitor competitor pricing strategies and promotional activities to remain competitive. Evaluate current product lifecycles and consider strategic discounting or bundling to stimulate demand and manage inventory effectively.</p>
-      ]]></description>
-      <link>https://www.zdnet.com/article/this-popular-fitbit-is-80-off-and-comes-with-a-20-amazon-credit-heres-how-to-cash-in/</link>
-    </item>
-    <item>
-      <title><![CDATA[Own a Samsung smartwatch? These 8 features and settings are very useful (but often overlooked)]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Mon, 03 Nov 2025 20:56:00 GMT</pubDate>
-      <guid isPermaLink="false">3c947aa7-8394-43bb-9519-395545e18b8e</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The article highlights eight useful but often overlooked features and settings within Samsung's Galaxy Watch series. These features leverage the latest Android software to enhance user experience and functionality, ranging from health monitoring to connectivity.</p>
-        
-        <h3>Business Impact</h3>
-        <p>While not directly a cybersecurity incident, this information is relevant for businesses developing or integrating with wearable technology. Understanding these features can inform product development, user training, and potentially improve employee wellness programs if smartwatches are part of corporate initiatives.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The existence of these features is a result of continuous innovation in wearable technology and the integration of advanced Android software. Users often overlook them due to a lack of awareness, complex menus, or not exploring the full capabilities of their devices.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Businesses involved in wearable tech should review such articles to identify potential feature gaps or opportunities for product enhancement. Companies deploying smartwatches for employees should consider providing training or resources to ensure users leverage the full spectrum of available features for productivity and well-being.</p>
-      ]]></description>
-      <link>https://www.zdnet.com/article/own-a-samsung-smartwatch-these-8-features-and-settings-are-very-useful-but-often-overlooked/</link>
-    </item>
-    <item>
-      <title><![CDATA[Fake Solidity VSCode extension on Open VSX backdoors developers]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Mon, 03 Nov 2025 20:50:10 GMT</pubDate>
-      <guid isPermaLink="false">84639d84-9758-4692-9205-aa9e663bfff3</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A malicious VSCode extension, 'SleepyDuck,' masquerading as the legitimate Solidity extension, was found on the Open VSX registry. This trojan backdoors developers' systems, using an Ethereum smart contract to establish a covert communication channel with attackers. This allows for remote access and potential compromise of development environments.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses relying on Solidity developers are at risk of intellectual property theft, compromise of their blockchain projects, and financial losses through unauthorized transactions. Operational disruptions could occur due to compromised development pipelines, and reputational damage may arise from security breaches linked to their software.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The incident stems from the exploitation of trust in open-source registries and the lack of stringent vetting for extensions. Attackers leveraged social engineering by mimicking a popular tool, combined with a sophisticated command-and-control mechanism via an Ethereum smart contract, to evade traditional detection methods.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Mandate strict supply chain security protocols for all development tools, including thorough vetting of extensions and their sources. Implement multi-factor authentication and least privilege access for developer environments. Conduct regular security audits and developer training on identifying and avoiding malicious software.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/</link>
-    </item>
-    <item>
-      <title><![CDATA[Why an ultrawide monitor shouldn't be the default choice for productivity - my buying advice instead]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Mon, 03 Nov 2025 20:46:00 GMT</pubDate>
-      <guid isPermaLink="false">0b40d7fb-94b0-4505-9637-a939f6ab962d</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The article provides advice on selecting the right monitor for productivity, specifically arguing against ultrawide monitors as a default choice. It suggests that factors like screen size, resolution, panel type, and ergonomics are more critical for optimal workflow and user experience.</p>
-        
-        <h3>Business Impact</h3>
-        <p>While not a direct cybersecurity incident, suboptimal monitor choices can indirectly impact business productivity and employee well-being. Poor display setups can lead to reduced efficiency, increased eye strain, and potential long-term health issues, ultimately affecting operational costs and employee retention.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The 'why' is not a cybersecurity event but rather a common misconception or marketing push towards ultrawide monitors without considering individual user needs or specific productivity tasks. The article aims to correct this by emphasizing a more tailored approach to hardware selection.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should encourage IT and procurement teams to adopt a more nuanced approach to hardware provisioning, particularly for monitors, by considering individual role requirements and ergonomic factors. Investing in appropriate display technology can enhance employee productivity and reduce health-related downtime, leading to better ROI on hardware investments.</p>
-      ]]></description>
-      <link>https://www.zdnet.com/article/why-an-ultrawide-monitor-shouldnt-be-the-default-choice-for-productivity-my-buying-advice-instead/</link>
-    </item>
-    <item>
-      <title><![CDATA[5 steps to fixing your business's top security risk]]></title>
+      <title><![CDATA[Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets]]></title>
       <category>IAM/Zero Trust/Geopolitics</category>
-      <pubDate>Mon, 03 Nov 2025 20:42:13 GMT</pubDate>
-      <guid isPermaLink="false">0f74aa61-f1c5-4b8b-a586-196daab22508</guid>
+      <pubDate>Mon, 01 Dec 2025 05:07:00 GMT</pubDate>
+      <guid isPermaLink="false">a22f5b00-0c73-4d28-a289-863beb4eb2c8</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A recent report by 1Password highlights that weak or compromised passwords remain the leading cybersecurity risk for businesses. This finding underscores a persistent vulnerability in organizational security postures, despite advancements in other security technologies.</p>
+        <p>The threat actor Tomiris is increasingly using public services like Telegram and Discord for command and control (C2) in attacks against government entities, foreign ministries, and intergovernmental organizations, particularly in Russia. This tactical shift allows for stealthier operations and remote access, facilitating further tool deployment. The attacks aim to establish persistent access to sensitive government networks.</p>
         
         <h3>Business Impact</h3>
-        <p>This pervasive risk can lead to significant financial losses through data breaches, operational disruptions from account takeovers, and severe reputational damage. The cost of remediation and potential regulatory fines further exacerbates the impact on a company's bottom line.</p>
+        <p>While directly targeting government entities, this trend indicates a broader risk for organizations utilizing public communication platforms. Businesses could face increased difficulty in detecting sophisticated C2 channels, leading to prolonged breaches, data exfiltration, and significant reputational damage if their systems are compromised through similar methods. Financial implications include recovery costs, potential regulatory fines, and loss of intellectual property.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The primary reasons for this vulnerability include poor password hygiene among employees, the reuse of passwords across multiple services, and insufficient implementation of multi-factor authentication (MFA). Additionally, phishing attacks and credential stuffing campaigns frequently exploit these weaknesses.</p>
+        <p>Tomiris's shift to public-service implants is driven by the desire for stealthier C2 operations, leveraging the widespread use and inherent trust in platforms like Telegram and Discord to blend malicious traffic with legitimate communications. This tactic exploits the difficulty in distinguishing between benign and malicious network activity on these services, making detection and blocking more challenging for traditional security defenses.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Executives should prioritize the implementation of robust password policies, including mandatory use of strong, unique passwords and multi-factor authentication (MFA) across all critical systems. Invest in a comprehensive identity and access management (IAM) solution and conduct regular employee training on cybersecurity best practices and phishing awareness.</p>
+        <p>Executives should mandate a review of network monitoring capabilities to detect anomalous traffic patterns on public communication platforms, even if they are generally permitted. Implement advanced threat detection solutions capable of behavioral analysis and C2 channel identification. Furthermore, reinforce employee training on social engineering and phishing to prevent initial access vectors that could lead to implant deployment.</p>
       ]]></description>
-      <link>https://www.zdnet.com/article/5-steps-to-fixing-your-businesss-top-security-risk/</link>
+      <link>https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html</link>
     </item>
     <item>
-      <title><![CDATA[What the colors of your USB ports tell you (and why some are more capable than others)]]></title>
-      <category>Other Noteworthy News</category>
-      <pubDate>Mon, 03 Nov 2025 20:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2ab04e50-b7d6-40ee-bc15-587c2e7ccd5f</guid>
+      <title><![CDATA[CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Sun, 30 Nov 2025 09:23:00 GMT</pubDate>
+      <guid isPermaLink="false">340553e7-3d3b-44a3-aab7-b38d8ee094c6</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>The article explains that the color of USB ports indicates their capabilities, such as data transfer speed and power delivery. Different colors (e.g., white, black, blue, teal, red, yellow, orange) correspond to various USB standards (e.g., USB 1.0, 2.0, 3.0, 3.1, 3.2, 4.0) and features like always-on charging.</p>
+        <p>CISA has added CVE-2021-26829, an actively exploited Cross-Site Scripting (XSS) vulnerability in OpenPLC ScadaBR, to its Known Exploited Vulnerabilities (KEV) catalog. This flaw affects both Windows and Linux versions of the software, indicating a widespread potential impact.</p>
         
         <h3>Business Impact</h3>
-        <p>While not a direct security incident, understanding USB port capabilities can impact operational efficiency and hardware procurement decisions. Businesses might inadvertently purchase or deploy devices with slower ports, leading to reduced productivity or compatibility issues with high-speed peripherals, potentially incurring hidden costs in lost time or suboptimal performance.</p>
+        <p>Organizations utilizing OpenPLC ScadaBR in their operational technology (OT) environments face significant operational disruption and potential data compromise due to active exploitation. Successful attacks could lead to unauthorized control over industrial processes, reputational damage, and financial losses from downtime or remediation efforts.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The differentiation in USB port colors arose as a visual cue to distinguish between evolving USB standards and their increasing capabilities. As technology advanced, new standards offered faster speeds and more power, necessitating a simple way for users to identify these improvements without needing to consult technical specifications.</p>
+        <p>The vulnerability is a Cross-Site Scripting (XSS) flaw, which typically arises from insufficient input validation and output encoding in web applications. Its inclusion in the KEV catalog signifies that threat actors have successfully weaponized this weakness to gain unauthorized access or execute malicious scripts.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Executives should ensure IT procurement policies consider USB port capabilities to optimize hardware investments and operational efficiency. Educate IT staff and end-users on the significance of USB port colors to facilitate informed decisions when connecting peripherals and troubleshooting connectivity issues, thereby maximizing hardware utilization.</p>
+        <p>Immediately identify and patch all instances of OpenPLC ScadaBR to mitigate CVE-2021-26829. Implement robust input validation and output encoding practices for all web-facing applications, and conduct regular security audits of OT/ICS systems to proactively identify and address vulnerabilities.</p>
       ]]></description>
-      <link>https://www.zdnet.com/article/what-the-colors-of-your-usb-ports-tell-you-and-why-some-are-more-capable-than-others/</link>
+      <link>https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Fri, 28 Nov 2025 16:27:00 GMT</pubDate>
+      <guid isPermaLink="false">bf8bb760-0ba9-48df-b357-812b6275a200</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Cybersecurity researchers at ReversingLabs have identified a vulnerability in legacy Python bootstrap scripts within multiple PyPI packages. This flaw, stemming from the 'zc.buildout' automation tool, creates a risk of domain takeover. If exploited, this could lead to a significant supply chain compromise on the Python Package Index.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses relying on vulnerable PyPI packages face a heightened risk of software supply chain attacks, potentially leading to data breaches, system compromise, and operational disruption. The reputational damage from being associated with a compromised software supply chain could be severe, impacting customer trust and market standing. Remediation efforts for widespread compromise could also incur significant financial costs.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability originates from insecure legacy bootstrap files provided by the 'zc.buildout' build and deployment automation tool. These older scripts likely contain weaknesses that, when present in PyPI packages, can be exploited for domain takeover. The continued use of unpatched or outdated components in the software supply chain is a primary contributing factor.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executive leadership should mandate an immediate audit of all Python projects to identify and update or remove any dependencies on packages utilizing 'zc.buildout' or other legacy bootstrap scripts. Implement stringent software supply chain security practices, including regular vulnerability scanning and dependency management for all third-party libraries. Prioritize the adoption of secure development lifecycle (SDLC) practices to prevent the introduction of similar vulnerabilities in future projects.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html</link>
+    </item>
+    <item>
+      <title><![CDATA[North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Fri, 28 Nov 2025 16:18:00 GMT</pubDate>
+      <guid isPermaLink="false">e6bb91a3-7dbc-4ece-b60c-3c4e66bcf8f9</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>North Korean threat actors have deployed 197 new malicious npm packages, downloaded over 31,000 times, to spread an updated variant of the OtterCookie malware. This campaign, known as 'Contagious Interview,' targets developers through compromised software supply chains.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations using npm packages are at high risk of supply chain compromise, leading to potential data breaches, system disruption, and intellectual property theft. The widespread downloads indicate a significant operational risk for development teams and a reputational risk for affected software projects.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The incident leverages the trust placed in public package registries like npm and exploits the common practice of developers integrating third-party libraries without stringent security vetting. The attackers are continuously evolving their malware and distribution methods to bypass detection.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Implement automated software supply chain security scanning for all third-party dependencies. Mandate strict security policies for package usage, including vetting and sandboxing, and educate development teams on the risks of malicious packages. Consider adopting a 'zero-trust' approach to third-party code.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html</link>
+    </item>
+    <item>
+      <title><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Fri, 28 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">57a3d5e6-d2b6-4da0-ba20-537cb0e937d2</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>CISA has added one new vulnerability, CVE-2021-26829 (OpenPLC ScadaBR Cross-site Scripting Vulnerability), to its Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. This addition highlights a critical security flaw that is frequently leveraged by malicious cyber actors.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations, particularly those utilizing OpenPLC ScadaBR, face immediate operational risks from potential exploitation of this vulnerability, which could lead to unauthorized access, data compromise, or disruption of industrial control systems. Failure to remediate promptly can result in significant financial losses from incident response, regulatory fines, and reputational damage.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability, CVE-2021-26829, is a Cross-site Scripting (XSS) flaw within OpenPLC ScadaBR, allowing attackers to inject malicious scripts into web applications. This type of vulnerability arises from insufficient input validation and output encoding, enabling attackers to execute arbitrary code in a user's browser.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives must ensure immediate patching or mitigation of CVE-2021-26829 if OpenPLC ScadaBR is in use within their organization. Furthermore, all organizations should prioritize regular review and remediation of vulnerabilities listed in CISA's KEV Catalog as a core component of their vulnerability management program to reduce overall cyber risk.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/28/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+    </item>
+    <item>
+      <title><![CDATA[Why Organizations Are Turning to RPAM]]></title>
+      <category>IAM/Zero Trust/Geopolitics</category>
+      <pubDate>Fri, 28 Nov 2025 11:09:00 GMT</pubDate>
+      <guid isPermaLink="false">794f169a-e6b0-4a4f-abc1-5ce8fb8a891f</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The shift to distributed IT environments and widespread hybrid/remote work has rendered traditional perimeter security and on-premises Privileged Access Management (PAM) inadequate. Organizations are now adopting Remote Privileged Access Management (RPAM) to secure access for administrators, contractors, and third-party vendors from any location and device.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Failure to adopt modern access management solutions like RPAM can lead to significant security vulnerabilities, increasing the risk of data breaches and unauthorized access to critical systems. This directly impacts operational continuity, financial stability due to potential fines and recovery costs, and damages organizational reputation.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The primary drivers are the rapid adoption of cloud services, the proliferation of remote work models, and the increasing reliance on third-party vendors for IT operations. These factors have dissolved traditional network perimeters, making secure access management from diverse locations a critical challenge.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should prioritize investment in RPAM solutions as part of a broader Zero Trust security strategy. Conduct a comprehensive review of existing PAM infrastructure to identify gaps and develop a roadmap for transitioning to a more flexible and secure remote access model. Ensure robust policies and training are in place for all privileged users, regardless of their location.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Opto 22 groov View]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f34197eb-93d4-43e7-834e-1ec5a13b8925</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A critical vulnerability (CVE-2025-13084) has been identified in Opto 22 groov View products, including groov View Server for Windows and GRV-EPIC Firmware. This flaw allows an attacker with Editor role access to expose sensitive information, specifically API keys for all users including Administrators, through a metadata exposure in the API's users endpoint.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Successful exploitation could lead to unauthorized access, credential exposure, and privilege escalation within industrial control systems, potentially disrupting critical manufacturing operations. This could result in significant financial losses due to downtime, data breaches, and reputational damage for affected organizations globally.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability stems from an improper information disclosure in the groov View API, where the 'users' endpoint, accessible by an Editor role, inadvertently returns API keys for all users. This design flaw allows a lower-privileged user to gain access to highly sensitive administrative credentials.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Organizations using Opto 22 groov View products must immediately upgrade to groov View Server for Windows Version R4.5e and GRV-EPIC Firmware Version 4.0.3. Additionally, implement robust network segmentation, restrict internet exposure of control systems, and utilize secure remote access methods like VPNs to minimize attack surfaces.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-04</link>
+    </item>
+    <item>
+      <title><![CDATA[Festo Compact Vision System, Control Block, Controller, and Operator Unit products]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">31fb4f29-94be-4fe4-beb6-eac87b5133ea</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Festo's Compact Vision System, Control Block, Controller, and Operator Unit products are affected by two critical vulnerabilities (CVE-2022-22515 and CVE-2022-31806). These vulnerabilities, with CVSS scores up to 9.8, allow remote attackers to access devices without authentication or modify critical configuration files.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Successful exploitation could lead to unauthorized control over industrial automation systems, causing significant operational disruptions, data manipulation, and potential safety hazards in critical manufacturing environments. This directly impacts production integrity and could result in substantial financial losses and reputational damage for affected organizations.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerabilities stem from an 'Exposure of Resource to Wrong Sphere' (CWE-668) allowing authenticated attackers to read/modify configuration files, and an 'Initialization of a Resource with an Insecure Default' (CWE-1188) where password protection is not enabled by default in CODESYS V2 PLCWinNT and Runtime Toolkit 32.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately implement Festo's recommended mitigations, including enabling password protection for controllers and using online user management to prevent malicious code execution. Additionally, minimize network exposure of control systems, isolate them from business networks with firewalls, and use secure VPNs for any necessary remote access.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-05</link>
+    </item>
+    <item>
+      <title><![CDATA[CISA Releases Seven Industrial Control Systems Advisories]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">a06f6438-a687-4a5c-a36e-63ac181985fe</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>CISA has released seven new Industrial Control Systems (ICS) Advisories, detailing current security issues, vulnerabilities, and exploits impacting various ICS products. These advisories cover a range of vendors including Ashlar-Vellum, Rockwell Automation, Zenitel, Opto 22, Festo, SiRcom, and Mitsubishi Electric.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing the affected ICS products face potential operational disruptions, data compromise, or safety risks if these vulnerabilities are exploited. Failure to address these issues could lead to significant financial losses due to downtime, regulatory fines, and reputational damage.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The advisories highlight inherent vulnerabilities within specific industrial control system software and hardware, which could be exploited by malicious actors. These vulnerabilities often stem from design flaws, insecure configurations, or lack of timely patching in critical operational technology environments.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should direct their IT and OT security teams to immediately review the CISA advisories, identify any affected systems within their infrastructure, and apply all recommended patches and mitigations. Implement a robust vulnerability management program specifically for ICS/OT environments and ensure regular security audits.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/alerts/2025/11/25/cisa-releases-seven-industrial-control-systems-advisories</link>
+    </item>
+    <item>
+      <title><![CDATA[Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">b9b2912a-25f5-429a-98c7-129c4149dc12</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Multiple Ashlar-Vellum CAD software products (Cobalt, Xenon, Argon, Lithium, Cobalt Share) are affected by critical Out-of-Bounds Write and Heap-based Buffer Overflow vulnerabilities. These vulnerabilities, with a CVSS v4 score of 8.4, could allow an attacker to disclose sensitive information or execute arbitrary code on affected systems. All versions 12.6.1204.207 and prior are impacted.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing these Ashlar-Vellum products, particularly those in Critical Manufacturing, face a significant risk of data breaches, operational disruption, and potential intellectual property theft. Although not remotely exploitable, successful exploitation could lead to unauthorized access and control over design and engineering data, impacting product development and competitive advantage. The low attack complexity further increases the risk of exploitation if internal systems are compromised.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerabilities stem from fundamental memory safety issues: an Out-of-Bounds Write (CWE-787) and a Heap-based Buffer Overflow (CWE-122). These flaws allow malicious input to corrupt memory, leading to information disclosure or arbitrary code execution. The vulnerabilities were discovered and reported by Michael Heinzl.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately update all affected Ashlar-Vellum products to version 12.6.1204.208 or higher to patch these critical vulnerabilities. Additionally, implement robust network segmentation and firewall rules to minimize network exposure of control systems, ensuring they are not accessible from the internet. Reinforce employee training on social engineering and phishing attacks, as user interaction is required for exploitation.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-01</link>
     </item>
   </channel>
 </rss>
