@@ -5,9 +5,53 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 09:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 12:05:05 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title><![CDATA[RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Thu, 01 Jan 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="false">5dd95a76-5654-423a-aed5-75ff4d81f245</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A new botnet, RondoDox, has been actively exploiting the critical React2Shell (CVE-2025-55182) vulnerability for nine months to compromise IoT devices and web servers. This campaign leverages a flaw with a CVSS score of 10.0 for initial access, indicating severe exploitability.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses face significant operational disruption and potential data breaches due to hijacked devices and servers. The compromise of critical infrastructure can lead to financial losses, reputational damage, and potential regulatory penalties if sensitive data is exposed.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The RondoDox botnet's success stems from the exploitation of the recently disclosed React2Shell vulnerability, a critical flaw allowing attackers to gain unauthorized access. The long duration of the campaign suggests a widespread and unpatched vulnerability across many systems.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and patch all systems vulnerable to CVE-2025-55182 (React2Shell) across your IoT and web server infrastructure. Implement continuous vulnerability scanning and intrusion detection systems to monitor for RondoDox activity and other emerging threats.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html</link>
+    </item>
+    <item>
+      <title><![CDATA[NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices]]></title>
+      <category>Regulatory Compliance/Industry Impact</category>
+      <pubDate>Wed, 31 Dec 2025 22:52:44 GMT</pubDate>
+      <guid isPermaLink="false">e950e951-da8a-471a-ad48-83bbdbbf773e</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The upcoming 2026 NYC mayoral inauguration has explicitly banned Flipper Zero and Raspberry Pi devices from its event. This decision highlights growing concerns over the potential misuse of these versatile, low-cost computing and hacking tools in public and secure environments.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This ban, while specific to an event, signals a broader trend of increased scrutiny on accessible technology that can be weaponized. Businesses, especially those hosting public events or operating in sensitive sectors, may face pressure to implement similar restrictions or enhance physical security measures, potentially increasing operational costs and impacting attendee experience.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The Flipper Zero and Raspberry Pi are banned due to their known capabilities for wireless signal manipulation, network scanning, and potential for unauthorized data exfiltration or disruption. Their small size and ease of concealment make them a security risk in high-profile public gatherings where malicious actors could exploit vulnerabilities or cause interference.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should review their organization's event security protocols and acceptable use policies for personal electronic devices, particularly in sensitive environments. Consider conducting risk assessments for emerging technologies that could pose security threats and develop clear guidelines or restrictions to mitigate potential misuse.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/</link>
+    </item>
     <item>
       <title><![CDATA[Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack]]></title>
       <category>Top Incident/Vulnerability</category>
@@ -51,6 +95,50 @@
         <p>Mandate the use of enterprise-grade browser security solutions that can detect and block malicious extensions. Educate employees on the risks of installing unverified browser extensions and implement strict policies regarding extension usage. Conduct regular audits of installed extensions across all company devices.</p>
       ]]></description>
       <link>https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Hackers drain $3.9M from Unleash Protocol after multisig hijack]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Wed, 31 Dec 2025 15:54:17 GMT</pubDate>
+      <guid isPermaLink="false">612f9c1d-c36d-4e99-bad0-b3ca82bb5c95</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The decentralized intellectual property platform Unleash Protocol suffered a loss of approximately $3.9 million in cryptocurrency. This occurred after an unauthorized contract upgrade was executed, enabling illicit asset withdrawals from the platform.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This incident highlights significant financial and reputational risks for businesses operating in the decentralized finance (DeFi) space. It can erode user trust, lead to substantial financial losses, and potentially trigger regulatory scrutiny regarding platform security and asset protection.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The root cause appears to be the hijacking of a multisignature (multisig) wallet, which allowed an unauthorized entity to perform a critical contract upgrade. This indicates a compromise in the control mechanisms designed to secure high-value transactions and smart contract modifications.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should mandate a comprehensive review of all multisig wallet security protocols, including key management, access controls, and transaction approval processes. Implement enhanced smart contract auditing procedures and consider integrating real-time anomaly detection systems to prevent unauthorized upgrades and withdrawals.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/</link>
+    </item>
+    <item>
+      <title><![CDATA[RondoDox botnet exploits React2Shell flaw to breach Next.js servers]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Wed, 31 Dec 2025 14:58:51 GMT</pubDate>
+      <guid isPermaLink="false">b331de10-e671-4475-a16f-e9f8bd1fffeb</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The RondoDox botnet is actively exploiting the critical React2Shell vulnerability (CVE-2025-55182) to compromise Next.js servers. This exploitation leads to the infection of these servers with malware and cryptominers, indicating a widespread automated attack campaign.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses utilizing Next.js servers are at risk of significant operational disruption due to server compromise and resource degradation from cryptomining activities. This can lead to increased infrastructure costs, data breaches, and reputational damage from service outages or compromised customer information.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The attacks leverage a critical, unpatched vulnerability, React2Shell (CVE-2025-55182), within Next.js environments. The RondoDox botnet is designed to automatically scan for and exploit this specific flaw, enabling rapid and widespread compromise of vulnerable systems.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and patch all Next.js servers to mitigate CVE-2025-55182. Implement robust intrusion detection and prevention systems to monitor for RondoDox botnet activity and unauthorized cryptominer installations. Conduct a thorough audit of all Next.js deployments to ensure compliance with security best practices and identify any existing compromises.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/</link>
     </item>
     <item>
       <title><![CDATA[Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System]]></title>
@@ -97,6 +185,28 @@
       <link>https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html</link>
     </item>
     <item>
+      <title><![CDATA[IBM warns of critical API Connect auth bypass vulnerability]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Wed, 31 Dec 2025 10:34:38 GMT</pubDate>
+      <guid isPermaLink="false">e92a7c31-005e-48f7-b001-dd4df483cd4e</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>IBM has issued a critical alert regarding an authentication bypass vulnerability (CVE-2024-29871) in its API Connect enterprise platform. This flaw allows unauthorized remote access to applications, potentially leading to data breaches and system compromise. The vulnerability affects multiple versions of API Connect, necessitating immediate patching.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This vulnerability poses a significant risk of data exposure and operational disruption for organizations utilizing IBM API Connect. Unauthorized access could lead to the compromise of sensitive data, financial losses due to regulatory fines or remediation efforts, and severe reputational damage. Business continuity could be impacted if critical API-driven services are taken offline or manipulated.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability is an authentication bypass flaw within the API Connect platform, allowing attackers to circumvent security controls designed to verify user identity. This type of vulnerability often stems from improper input validation or flawed authentication logic in the software's design. Specific technical details of the bypass mechanism are not fully disclosed but point to a fundamental weakness in the authentication process.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives must ensure immediate patching of all affected IBM API Connect instances to mitigate this critical vulnerability. Conduct an urgent review of API access logs for any signs of unauthorized activity prior to patching. Furthermore, implement enhanced monitoring and incident response protocols specifically for API gateways and critical application interfaces to detect and respond to future threats promptly.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/</link>
+    </item>
+    <item>
       <title><![CDATA[U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware]]></title>
       <category>Regulatory Compliance/Industry Impact</category>
       <pubDate>Wed, 31 Dec 2025 05:17:00 GMT</pubDate>
@@ -117,116 +227,6 @@
         <p>Executives should review their organization's exposure to commercial spyware vendors and sanctioned entities, ensuring robust due diligence processes are in place. Engage legal and compliance teams to understand the implications of evolving sanction policies and adjust risk management frameworks accordingly.</p>
       ]]></description>
       <link>https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html</link>
-    </item>
-    <item>
-      <title><![CDATA[CISA Releases Two Industrial Control Systems Advisories]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Tue, 30 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">43459e42-12ea-4baf-b2fc-2a4dd27c52c2</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>CISA has released two new Industrial Control Systems (ICS) Advisories concerning vulnerabilities in WHILL C2 Electric Wheelchairs and AzeoTech DAQFactory. These advisories provide critical information regarding security issues, vulnerabilities, and potential exploits within these specific ICS products.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing these specific ICS products, particularly in healthcare or industrial automation, face potential operational disruptions, safety risks, and reputational damage if vulnerabilities are exploited. Failure to address these issues could lead to compromised device control, data breaches, or even physical harm to users in the case of medical devices.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The advisories highlight inherent security weaknesses or design flaws within the software and hardware of the WHILL C2 Wheelchairs and AzeoTech DAQFactory. These vulnerabilities are typical of ICS environments where security may not always be a primary design consideration, leading to potential avenues for unauthorized access or manipulation.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should ensure their IT and OT security teams promptly review the detailed CISA advisories for WHILL C2 Wheelchairs and AzeoTech DAQFactory. Implement all recommended technical mitigations, patches, and security configurations immediately to protect against potential exploits. Furthermore, establish a regular review process for CISA ICS advisories to proactively address emerging threats in operational technology environments.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories</link>
-    </item>
-    <item>
-      <title><![CDATA[WHILL Model C2 Electric Wheelchairs and Model F Power Chairs]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Tue, 30 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b6e27d46-bfff-43a0-949b-86ca46eeb3c2</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>WHILL Model C2 Electric Wheelchairs and Model F Power Chairs are vulnerable to unauthorized control via Bluetooth due to missing authentication. An attacker within Bluetooth range can issue movement commands, override speed restrictions, and manipulate configuration profiles without credentials. This critical vulnerability (CVE-2025-14346) has a CVSS v3.1 score of 9.8.</p>
-        
-        <h3>Business Impact</h3>
-        <p>For healthcare providers and individuals using these devices, this vulnerability poses a severe safety risk, potentially leading to injury or loss of control. It also creates significant reputational damage for WHILL Inc. and could result in product recalls, legal liabilities, and decreased customer trust.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The root cause is a 'Missing Authentication for Critical Function' (CWE-306) in the Bluetooth communication protocol of the wheelchairs. This allows any device within range to pair and send commands without requiring any form of user authentication or interaction.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Organizations and users of affected WHILL products should immediately apply the deployed fixes from WHILL Inc., which include device-side speed profile protection, unlock command restrictions during motion, and application JSON file obfuscation. Additionally, CISA recommends minimizing network exposure for control system devices and isolating them behind firewalls.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01</link>
-    </item>
-    <item>
-      <title><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Mon, 29 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">985a551d-25a7-4c04-8b0e-e8f0883382eb</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>CISA has added a new vulnerability, CVE-2025-14847, affecting MongoDB and MongoDB Server, to its Known Exploited Vulnerabilities (KEV) Catalog. This addition signifies active exploitation of an 'Improper Handling of Length Parameter Inconsistency Vulnerability' in the wild. The KEV Catalog lists vulnerabilities that pose significant risk and are frequently used as attack vectors.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing MongoDB or MongoDB Server are at immediate risk of exploitation, potentially leading to data breaches, service disruptions, and reputational damage. While federal agencies are mandated to remediate, all organizations are strongly urged to prioritize patching to avoid significant operational and financial repercussions from active cyberattacks.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability stems from an 'Improper Handling of Length Parameter Inconsistency' within MongoDB and MongoDB Server, allowing malicious actors to exploit this flaw. The inclusion in the KEV Catalog confirms that this specific vulnerability is being actively leveraged by attackers, indicating a known and exploitable weakness in the software.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and patch all instances of MongoDB and MongoDB Server to remediate CVE-2025-14847, following vendor guidelines. Implement a robust vulnerability management program that prioritizes patching KEV Catalog vulnerabilities. Ensure continuous monitoring for indicators of compromise related to this and other actively exploited vulnerabilities.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-    </item>
-    <item>
-      <title><![CDATA[CISA Releases One Industrial Control Systems Advisory]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">3a254145-2f49-4a52-8dd8-1e269f0a448d</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>CISA has issued an Industrial Control Systems (ICS) Advisory, ICSA-25-177-01, specifically an 'Update B' for Mitsubishi Electric Air Conditioning Systems. This advisory provides critical information regarding security issues, vulnerabilities, and potential exploits affecting these operational technology (OT) systems.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing Mitsubishi Electric Air Conditioning Systems face potential operational disruptions, system compromise, and increased maintenance costs if vulnerabilities are exploited. Failure to address these issues could lead to regulatory non-compliance and reputational damage due to compromised environmental controls or data breaches if systems are networked.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The advisory indicates that specific vulnerabilities exist within Mitsubishi Electric Air Conditioning Systems, which could be exploited by malicious actors. These vulnerabilities likely stem from software flaws or misconfigurations inherent in the system's design or implementation, requiring an update to mitigate the risks.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should direct their IT and OT security teams to immediately review CISA's ICSA-25-177-01 advisory for Mitsubishi Electric Air Conditioning Systems. Prioritize applying all recommended patches, updates, and mitigation strategies to affected systems. Ensure a robust vulnerability management program is in place for all ICS/OT environments.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory</link>
-    </item>
-    <item>
-      <title><![CDATA[NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment]]></title>
-      <category>IAM/Zero Trust/Geopolitics</category>
-      <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b5860f68-2897-499a-9ded-10f654e78f11</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>NIST and CISA have released a draft Interagency Report (IR) 8597, 'Protecting Tokens and Assertions from Forgery, Theft, and Misuse,' for public comment until January 30, 2026. This report provides critical guidance for federal agencies and cloud service providers (CSPs) on securing identity tokens and assertions, a direct response to recent cybersecurity incidents involving the compromise of these credentials.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This initiative will significantly impact businesses, particularly those operating in cloud environments or serving federal agencies, by establishing new standards for Identity and Access Management (IAM) controls. Non-compliance or failure to adopt these best practices could lead to increased exposure to identity-based attacks, potential regulatory penalties, and reputational damage from data breaches.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The report was prompted by executive orders and recent high-profile cybersecurity incidents where attackers successfully stole, modified, or forged identity tokens and assertions to gain unauthorized access to protected resources within major cloud service providers. The root cause lies in the evolving sophistication of identity-based attacks and the need for clearer roles and responsibilities in managing IAM in complex cloud ecosystems.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should review the draft report to understand the evolving landscape of identity security and prepare for potential changes in compliance requirements. Prioritize investments in robust IAM solutions, implement Secure by Design principles, and ensure transparent communication and clear delineation of IAM responsibilities with cloud service providers. Engage with the public comment period to influence the final guidance.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and</link>
     </item>
   </channel>
 </rss>
