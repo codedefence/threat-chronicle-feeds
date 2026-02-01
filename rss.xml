@@ -5,228 +5,228 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Feb 2026 03:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:05:03 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title><![CDATA[RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers]]></title>
+      <title><![CDATA[Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists]]></title>
+      <category>IAM/Zero Trust/Geopolitics</category>
+      <pubDate>Sat, 31 Jan 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="false">b95795be-98a5-43f0-8a05-afa3c0216929</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>An Iran-linked threat actor, RedKitten, is actively targeting human rights NGOs and activists, particularly those documenting abuses related to recent nationwide unrest in Iran. This campaign, observed in January 2026, leverages Farsi-speaking operatives to compromise targets.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations involved in human rights advocacy, journalism, or those with personnel operating in politically sensitive regions face significant reputational damage, data loss, and potential operational disruption. This also highlights the growing risk of state-sponsored cyber espionage against non-traditional targets.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The campaign is driven by Iranian state interests, likely aiming to suppress dissent, gather intelligence on opposition movements, and disrupt efforts to document human rights violations. The timing coincides with internal unrest, suggesting a direct response to perceived threats to the regime.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Implement enhanced security awareness training for employees, especially those in high-risk roles or regions, focusing on phishing and social engineering. Strengthen identity and access management (IAM) with multi-factor authentication (MFA) and consider adopting a Zero Trust architecture to limit lateral movement in case of a breach.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Thu, 01 Jan 2026 09:19:00 GMT</pubDate>
-      <guid isPermaLink="false">5dd95a76-5654-423a-aed5-75ff4d81f245</guid>
+      <pubDate>Sat, 31 Jan 2026 07:58:00 GMT</pubDate>
+      <guid isPermaLink="false">802b7aa5-3eff-4c8c-ba9f-b9fdac573ccc</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A new botnet, RondoDox, has been actively exploiting the critical React2Shell (CVE-2025-55182) vulnerability for nine months to compromise IoT devices and web servers. This campaign leverages a flaw with a CVSS score of 10.0 for initial access, indicating severe exploitability.</p>
+        <p>Mandiant has identified an increase in sophisticated vishing attacks, consistent with the ShinyHunters group, targeting organizations. These attacks employ voice phishing and fake credential harvesting sites to bypass multi-factor authentication (MFA) and gain unauthorized access to SaaS platforms. The primary goal appears to be data exfiltration and subsequent extortion.</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses face significant operational disruption and potential data breaches due to hijacked devices and servers. The compromise of critical infrastructure can lead to financial losses, reputational damage, and potential regulatory penalties if sensitive data is exposed.</p>
+        <p>Businesses face significant financial and reputational risks due to potential data breaches, intellectual property theft, and operational disruptions. The compromise of SaaS platforms can lead to widespread data loss, regulatory fines, and a loss of customer trust, impacting long-term business viability.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The RondoDox botnet's success stems from the exploitation of the recently disclosed React2Shell vulnerability, a critical flaw allowing attackers to gain unauthorized access. The long duration of the campaign suggests a widespread and unpatched vulnerability across many systems.</p>
+        <p>The attacks exploit human vulnerabilities through social engineering (vishing) and leverage convincing fake login pages to trick users into divulging credentials and MFA codes. The increasing reliance on SaaS platforms and the sophistication of these phishing techniques contribute to the effectiveness of these breaches.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and patch all systems vulnerable to CVE-2025-55182 (React2Shell) across your IoT and web server infrastructure. Implement continuous vulnerability scanning and intrusion detection systems to monitor for RondoDox activity and other emerging threats.</p>
+        <p>Implement robust employee training programs focused on identifying vishing and sophisticated phishing attempts, emphasizing the importance of verifying communication channels. Deploy advanced MFA solutions that are resistant to phishing, such as FIDO2-based security keys, and enhance endpoint detection and response (EDR) capabilities to quickly identify and neutralize suspicious activity.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html</link>
+      <link>https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html</link>
     </item>
     <item>
-      <title><![CDATA[NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices]]></title>
-      <category>Regulatory Compliance/Industry Impact</category>
-      <pubDate>Wed, 31 Dec 2025 22:52:44 GMT</pubDate>
-      <guid isPermaLink="false">e950e951-da8a-471a-ad48-83bbdbbf773e</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The upcoming 2026 NYC mayoral inauguration has explicitly banned Flipper Zero and Raspberry Pi devices from its event. This decision highlights growing concerns over the potential misuse of these versatile, low-cost computing and hacking tools in public and secure environments.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This ban, while specific to an event, signals a broader trend of increased scrutiny on accessible technology that can be weaponized. Businesses, especially those hosting public events or operating in sensitive sectors, may face pressure to implement similar restrictions or enhance physical security measures, potentially increasing operational costs and impacting attendee experience.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The Flipper Zero and Raspberry Pi are banned due to their known capabilities for wireless signal manipulation, network scanning, and potential for unauthorized data exfiltration or disruption. Their small size and ease of concealment make them a security risk in high-profile public gatherings where malicious actors could exploit vulnerabilities or cause interference.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should review their organization's event security protocols and acceptable use policies for personal electronic devices, particularly in sensitive environments. Consider conducting risk assessments for emerging technologies that could pose security threats and develop clear guidelines or restrictions to mitigate potential misuse.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/</link>
-    </item>
-    <item>
-      <title><![CDATA[European Space Agency hit again as cybercrims claim 200 GB data up for sale]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 16:55:48 GMT</pubDate>
-      <guid isPermaLink="false">3c6d9776-748f-401f-894d-0717a31b6ed3</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The European Space Agency (ESA) has experienced another cybersecurity incident, with threat actors claiming to have exfiltrated 200 GB of data, including confidential documents, credentials, and source code. While the ESA asserts the impact was limited to external systems, the breach highlights persistent vulnerabilities.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident poses significant reputational damage to the ESA, potentially eroding public and partner trust. For other organizations, it underscores the financial and operational risks associated with data breaches, including potential intellectual property loss and regulatory fines, even when 'limited' to external systems.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The recurring nature of these incidents suggests potential weaknesses in external system security, possibly due to unpatched vulnerabilities, misconfigurations, or inadequate access controls. The exfiltration of credentials and source code points to a failure in protecting sensitive information and potentially a lack of robust data loss prevention measures.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate a comprehensive review of external system security, including penetration testing and vulnerability assessments, focusing on data exfiltration vectors. Implement enhanced credential management, multi-factor authentication, and robust data loss prevention strategies across all critical systems, regardless of their 'internal' or 'external' classification.</p>
-      ]]></description>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/</link>
-    </item>
-    <item>
-      <title><![CDATA[Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 16:29:00 GMT</pubDate>
-      <guid isPermaLink="false">664678d1-dd0c-464a-a441-ac7c96b433af</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Trust Wallet's Google Chrome extension was compromised in November 2025 due to the second iteration of the Shai-Hulud supply chain attack. This breach led to the theft of approximately $8.5 million in user assets. The attackers gained access to Trust Wallet's Developer GitHub secrets, enabling them to manipulate the extension's source code.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident results in significant financial losses for Trust Wallet users and severely damages the company's reputation and user trust. It also highlights the operational risks associated with third-party dependencies and developer tool security, potentially impacting future adoption and partnerships. The financial impact extends beyond the direct theft, encompassing remediation costs and potential legal liabilities.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The primary cause was a supply chain attack, specifically the Shai-Hulud outbreak, which compromised Trust Wallet's Developer GitHub secrets. This exposure allowed attackers to inject malicious code into the Chrome extension's source. The root vulnerability was likely insufficient protection or monitoring of critical developer credentials and the software supply chain.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate an immediate, comprehensive audit of all developer tools, credentials, and software supply chain security protocols. Implement multi-factor authentication and stringent access controls for all critical development resources, especially GitHub. Furthermore, invest in advanced supply chain security solutions and continuous monitoring to detect and prevent similar future attacks.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html</link>
-    </item>
-    <item>
-      <title><![CDATA[DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 16:14:00 GMT</pubDate>
-      <guid isPermaLink="false">1276dc2b-c638-4aa9-a1af-90bc3dd567eb</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A Chinese threat actor, tracked as DarkSpectre, has been identified as responsible for three malicious browser extension campaigns (ShadyPanda, GhostPoster, and DarkSpectre) that have collectively impacted over 8.8 million users across Google Chrome, Microsoft Edge, and Mozilla Firefox. The latest campaign, DarkSpectre, alone affected 2.2 million users.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses face significant risks of data breaches, intellectual property theft, and compromised user accounts due to these malicious extensions. The widespread nature of these campaigns across major browsers indicates a broad attack surface, potentially leading to reputational damage and financial losses from remediation efforts and regulatory fines.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The campaigns exploited the trust users place in browser extensions and likely leveraged social engineering or deceptive tactics to trick users into installing the malicious software. The underlying vulnerabilities likely stem from insufficient vetting processes for extensions or the ability of threat actors to masquerade as legitimate developers.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Mandate the use of enterprise-grade browser security solutions that can detect and block malicious extensions. Educate employees on the risks of installing unverified browser extensions and implement strict policies regarding extension usage. Conduct regular audits of installed extensions across all company devices.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html</link>
-    </item>
-    <item>
-      <title><![CDATA[Hackers drain $3.9M from Unleash Protocol after multisig hijack]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 15:54:17 GMT</pubDate>
-      <guid isPermaLink="false">612f9c1d-c36d-4e99-bad0-b3ca82bb5c95</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The decentralized intellectual property platform Unleash Protocol suffered a loss of approximately $3.9 million in cryptocurrency. This occurred after an unauthorized contract upgrade was executed, enabling illicit asset withdrawals from the platform.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident highlights significant financial and reputational risks for businesses operating in the decentralized finance (DeFi) space. It can erode user trust, lead to substantial financial losses, and potentially trigger regulatory scrutiny regarding platform security and asset protection.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The root cause appears to be the hijacking of a multisignature (multisig) wallet, which allowed an unauthorized entity to perform a critical contract upgrade. This indicates a compromise in the control mechanisms designed to secure high-value transactions and smart contract modifications.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate a comprehensive review of all multisig wallet security protocols, including key management, access controls, and transaction approval processes. Implement enhanced smart contract auditing procedures and consider integrating real-time anomaly detection systems to prevent unauthorized upgrades and withdrawals.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/</link>
-    </item>
-    <item>
-      <title><![CDATA[RondoDox botnet exploits React2Shell flaw to breach Next.js servers]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 14:58:51 GMT</pubDate>
-      <guid isPermaLink="false">b331de10-e671-4475-a16f-e9f8bd1fffeb</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>The RondoDox botnet is actively exploiting the critical React2Shell vulnerability (CVE-2025-55182) to compromise Next.js servers. This exploitation leads to the infection of these servers with malware and cryptominers, indicating a widespread automated attack campaign.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses utilizing Next.js servers are at risk of significant operational disruption due to server compromise and resource degradation from cryptomining activities. This can lead to increased infrastructure costs, data breaches, and reputational damage from service outages or compromised customer information.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The attacks leverage a critical, unpatched vulnerability, React2Shell (CVE-2025-55182), within Next.js environments. The RondoDox botnet is designed to automatically scan for and exploit this specific flaw, enabling rapid and widespread compromise of vulnerable systems.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and patch all Next.js servers to mitigate CVE-2025-55182. Implement robust intrusion detection and prevention systems to monitor for RondoDox botnet activity and unauthorized cryptominer installations. Conduct a thorough audit of all Next.js deployments to ensure compliance with security best practices and identify any existing compromises.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/</link>
-    </item>
-    <item>
-      <title><![CDATA[Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 13:37:00 GMT</pubDate>
-      <guid isPermaLink="false">a3e6c34c-abca-44c4-93a4-9f3fa2ee1d56</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>IBM has disclosed a critical authentication bypass vulnerability (CVE-2025-13915) in its API Connect product, rated 9.8 on the CVSS scale. This flaw allows remote attackers to bypass authentication mechanisms and gain unauthorized access to the application. The vulnerability poses a significant risk to the integrity and confidentiality of systems utilizing IBM API Connect.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses using IBM API Connect face a high risk of unauthorized data access, system compromise, and potential service disruption. Exploitation could lead to severe financial losses due to data breaches, regulatory fines, and significant reputational damage. Operational continuity could also be jeopardized if critical API management infrastructure is compromised.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability is an authentication bypass flaw within the IBM API Connect system, indicating a weakness in how the application verifies user identities. This type of flaw typically arises from improper implementation of authentication protocols or insufficient validation of user credentials, allowing malicious actors to circumvent security controls.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately apply all available patches and security updates released by IBM for API Connect to mitigate CVE-2025-13915. Conduct an urgent audit of all API Connect instances to identify potential compromise and review access logs for any suspicious activity. Implement enhanced monitoring and incident response protocols specifically for API management infrastructure.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html</link>
-    </item>
-    <item>
-      <title><![CDATA[Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry]]></title>
+      <title><![CDATA[CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms]]></title>
       <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Wed, 31 Dec 2025 13:29:00 GMT</pubDate>
-      <guid isPermaLink="false">cdcffc4e-c38a-489b-b3ce-2a0ee6893315</guid>
+      <pubDate>Sat, 31 Jan 2026 07:05:00 GMT</pubDate>
+      <guid isPermaLink="false">dcb03f3a-235e-46d1-b535-ac6551f0bb5f</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A modified version of the Shai-Hulud worm has been identified on the npm registry, embedded within the package '@vietmoney/react-big-calendar'. This indicates a continued and evolving threat targeting software supply chains through popular package managers.</p>
+        <p>CERT Polska reported coordinated cyber attacks on over 30 wind and solar farms, a manufacturing company, and a large combined heat and power plant on December 29, 2025. These attacks targeted critical infrastructure and a private sector entity in Poland. The incident highlights a significant threat to operational technology (OT) environments.</p>
         
         <h3>Business Impact</h3>
-        <p>Organizations relying on npm packages are at risk of supply chain attacks, potentially leading to data breaches, system compromise, and operational disruptions. The financial and reputational costs associated with such incidents can be significant, including remediation expenses and loss of customer trust.</p>
+        <p>This incident demonstrates the potential for widespread disruption to critical energy infrastructure, leading to power outages and economic losses. For the manufacturing sector, such attacks can halt production, cause financial damage, and erode customer trust. The coordinated nature suggests a sophisticated adversary capable of impacting multiple sectors simultaneously.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The incident highlights the ongoing vulnerability of software supply chains to malicious package injection. Attackers exploit the trust in public repositories like npm, often using compromised accounts or social engineering to upload malicious code disguised as legitimate updates.</p>
+        <p>The attacks likely exploited vulnerabilities within the operational technology (OT) systems of these critical infrastructure entities. The coordination across multiple targets suggests a well-resourced and strategic attacker, potentially leveraging supply chain weaknesses or common system vulnerabilities. Specific root causes or exploited vulnerabilities are not detailed but are typical in such sophisticated attacks.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Implement robust software supply chain security practices, including regular scanning of third-party dependencies for known vulnerabilities and malicious code. Enforce strict access controls for developer accounts and consider using private package registries for critical applications to mitigate risks.</p>
+        <p>Executives should prioritize comprehensive cybersecurity assessments of all OT/ICS environments, including third-party suppliers. Implement robust network segmentation, multi-factor authentication, and continuous monitoring for anomalous activity. Develop and regularly test incident response plans specifically tailored for OT/ICS environments to minimize downtime and recovery costs.</p>
       ]]></description>
-      <link>https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html</link>
+      <link>https://thehackernews.com/2026/01/poland-attributes-december-cyber.html</link>
     </item>
     <item>
-      <title><![CDATA[Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist]]></title>
+      <title><![CDATA[Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Wed, 31 Dec 2025 11:58:51 GMT</pubDate>
-      <guid isPermaLink="false">833b6755-aee3-46f6-be75-03da9ed91db3</guid>
+      <pubDate>Fri, 30 Jan 2026 13:42:00 GMT</pubDate>
+      <guid isPermaLink="false">ef966ea0-1adc-4604-b105-c75166c960be</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A supply chain attack, dubbed 'Shai-Hulud,' compromised Trust Wallet's Developer GitHub, leading to the exposure of sensitive secrets. This allowed attackers to publish a malicious backdoor extension, subsequently stealing $8.5 million from 2,520 Trust Wallet users.</p>
+        <p>Malicious Google Chrome extensions, such as 'Amazon Ads Blocker,' have been identified hijacking affiliate links, exfiltrating user data, and stealing OpenAI ChatGPT authentication tokens. These extensions, disguised as legitimate tools, compromise user privacy and financial interests through surreptitious activities.</p>
         
         <h3>Business Impact</h3>
-        <p>This incident resulted in significant financial losses for Trust Wallet users and severely damaged the company's reputation and user trust in its security. For businesses relying on third-party integrations or open-source platforms, it highlights the critical financial and reputational risks associated with supply chain vulnerabilities.</p>
+        <p>Businesses face significant reputational damage if their employees' compromised accounts are used for malicious activities or if sensitive company data is exfiltrated. Financial losses can occur through affiliate link hijacking, diverting revenue, and potential legal liabilities from data breaches.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The root cause was a compromise of Trust Wallet's Developer GitHub, indicating a potential weakness in access control, credential management, or developer workstation security. This allowed attackers to inject malicious code into the software supply chain, bypassing security checks and distributing a backdoored extension.</p>
+        <p>The incident stems from users installing seemingly innocuous browser extensions that contain hidden malicious functionalities. The lack of stringent vetting for extensions in app stores and users' trust in advertised features contribute to the successful deployment and operation of these threats.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate a comprehensive review of all third-party integrations and developer environments, focusing on robust access controls, multi-factor authentication, and secret management. Implement regular security audits and penetration testing of the entire software supply chain to identify and mitigate similar vulnerabilities proactively.</p>
+        <p>Implement strict policies regarding browser extension installations, recommending only pre-approved and vetted extensions. Conduct regular security awareness training for employees on the risks of untrusted software and the importance of verifying extension legitimacy before installation.</p>
       ]]></description>
-      <link>https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/</link>
+      <link>https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html</link>
+    </item>
+    <item>
+      <title><![CDATA[China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Fri, 30 Jan 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="false">34f686a1-9766-4c73-9cad-0a2300fb9acf</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A China-linked threat actor, UAT-8099, launched a campaign between late 2025 and early 2026, targeting vulnerable Internet Information Services (IIS) servers in Asia. The attack, discovered by Cisco Talos, primarily focused on organizations in Thailand and Vietnam, deploying 'BadIIS SEO malware'.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations in affected regions, particularly those using IIS servers, face significant reputational damage and potential financial losses due to compromised websites and data breaches. The SEO malware could degrade search engine rankings, impacting online visibility and customer acquisition for businesses.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The campaign exploited vulnerabilities in IIS servers, indicating a lack of timely patching and robust security configurations. UAT-8099 leveraged these weaknesses to inject malicious code, likely for SEO poisoning or further exploitation.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Mandate immediate patching and security audits of all IIS servers, especially those in Asian operations. Implement advanced threat detection and prevention systems to identify and block similar sophisticated attacks. Review and strengthen incident response plans to address potential future compromises effectively.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html</link>
+    </item>
+    <item>
+      <title><![CDATA[KiloView Encoder Series]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">58d9d760-96f3-4323-b263-55c39db396ef</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A critical vulnerability (CVE-2026-1453) has been identified in multiple versions of KiloView Encoder Series devices. This flaw, categorized as 'Missing Authentication for Critical Function,' allows unauthenticated attackers to create or delete administrator accounts, leading to full administrative control.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing KiloView Encoder Series in their communications and IT infrastructure face a severe risk of unauthorized access and operational disruption. Successful exploitation could lead to data manipulation, system downtime, and significant reputational damage due to compromised critical systems.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability stems from a critical function lacking proper authentication, allowing any unauthenticated attacker to bypass security controls and gain administrative privileges. KiloView has not yet provided a patch or mitigation, leaving affected systems exposed.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and isolate all KiloView Encoder Series devices within the network. Implement robust network segmentation and firewall rules to minimize external exposure, and consider alternative, more secure methods for remote access, such as updated VPNs, while monitoring for any suspicious activity.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01</link>
+    </item>
+    <item>
+      <title><![CDATA[Rockwell Automation ArmorStart LT]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">28405f5a-8d69-4c30-a722-0b39a0c20c92</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Multiple high-severity denial-of-service (DoS) vulnerabilities (CVE-2025-9464, CVE-2025-9465, CVE-2025-9466, CVE-2025-9278, CVE-2025-9279, CVE-2025-9280, CVE-2025-9281, CVE-2025-9282, CVE-2025-9283) have been identified in Rockwell Automation ArmorStart LT devices, versions <=V2.002. These vulnerabilities, primarily categorized as Uncontrolled Resource Consumption, can be exploited remotely to render devices unresponsive or cause unexpected reboots, leading to operational disruptions.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Successful exploitation of these vulnerabilities could lead to significant operational downtime in critical manufacturing environments globally, as these devices are widely deployed. Businesses face potential financial losses from production halts, equipment damage, and reputational damage due to service interruptions. The lack of an immediate patch means organizations must rely on mitigation strategies, increasing operational risk.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerabilities stem from security issues within the ArmorStart LT firmware, specifically related to how the devices handle network traffic and grammar tests (e.g., CIP fuzzing, Achilles tests, Burp Suite scans). These actions trigger uncontrolled resource consumption or unexpected reboots, indicating weaknesses in the device's resilience to malformed or excessive network inputs.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executive leadership should ensure immediate implementation of CISA's recommended defensive measures, including minimizing network exposure of control systems, isolating OT networks with firewalls, and securing remote access via updated VPNs. Furthermore, conduct a thorough risk assessment and impact analysis for all deployed ArmorStart LT devices to understand potential exposure and prioritize mitigation efforts until a patch is available. Engage with Rockwell Automation for updates on patches and further guidance.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-02</link>
+    </item>
+    <item>
+      <title><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">719f0bcf-578a-4cfb-8f6d-5651481ce0d7</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>CISA has added a new vulnerability, CVE-2026-1281, affecting Ivanti Endpoint Manager Mobile (EPMM) to its Known Exploited Vulnerabilities (KEV) Catalog. This code injection vulnerability is actively being exploited by malicious cyber actors, posing a significant risk to federal and other organizations. The inclusion in the KEV Catalog mandates remediation for Federal Civilian Executive Branch (FCEB) agencies.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing Ivanti EPMM are at immediate risk of compromise, potentially leading to data breaches, operational disruptions, and reputational damage. Failure to remediate this vulnerability can result in significant financial losses due to incident response, recovery efforts, and potential regulatory fines. For FCEB agencies, non-compliance with BOD 22-01 carries regulatory implications.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability, CVE-2026-1281, is a code injection flaw within Ivanti EPMM, allowing attackers to execute arbitrary code. This type of vulnerability is a common attack vector due to its potential for remote exploitation and high impact. The active exploitation indicates that threat actors have successfully identified and weaponized this weakness.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and patch all instances of Ivanti Endpoint Manager Mobile (EPMM) to mitigate CVE-2026-1281. Prioritize this remediation as part of your organization's vulnerability management program, even if not a federal agency, given the active exploitation. Additionally, review and enhance monitoring for suspicious activity related to Ivanti EPMM installations.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/alerts/2026/01/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+    </item>
+    <item>
+      <title><![CDATA[Rockwell Automation ControlLogix]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3f54577c-6531-42b9-89e9-72df67a4f124</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Rockwell Automation ControlLogix Redundancy Enhanced Modules (1756-RM2 and 1756-RM2XT) are vulnerable to multiple denial-of-service issues (CVE-2025-14027). These vulnerabilities, rated with a CVSS v3.1 score of 7.5 (High), can be triggered by crafted inputs, leading to device unresponsiveness and potential major nonrecoverable faults requiring a restart.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Successful exploitation could lead to significant operational disruptions and downtime in critical infrastructure sectors such as Chemical, Energy, and Manufacturing. The denial-of-service condition directly impacts the availability of control systems, potentially causing production halts, safety concerns, and financial losses due to interrupted operations.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerabilities stem from 'Missing Release of Memory after Effective Lifetime' (CWE-401) and other resource exhaustion scenarios within the firmware. This allows attackers to cause memory leaks and other issues through malformed Class 3 messages, ultimately leading to system instability and denial of service.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Organizations using affected Rockwell Automation ControlLogix modules should prioritize upgrading to the 1756-RM3. If an upgrade is not immediately feasible, implement robust security best practices, including minimizing network exposure, isolating control networks with firewalls, and securing remote access via updated VPNs.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03</link>
+    </item>
+    <item>
+      <title><![CDATA[Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Wed, 28 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0f49983f-cb90-4d40-870f-4950709f134b</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Fortinet has issued guidance regarding the active exploitation of CVE-2026-24858, an authentication bypass vulnerability affecting multiple Fortinet products when FortiCloud Single Sign-On (SSO) is enabled. This vulnerability allows malicious actors with a FortiCloud account to gain unauthorized access to other users' registered devices, even if previous SSO bypass vulnerabilities (CVE-2025-59718 and CVE-2025-59719) were patched.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing vulnerable Fortinet products with FortiCloud SSO enabled face significant risks of unauthorized access, leading to potential data breaches, system compromise, and operational disruption. Malicious actors have been observed making unauthorized firewall configuration changes, creating new accounts, and altering VPN settings, which can severely impact network security and business continuity. The repeated nature of these SSO bypass vulnerabilities also poses a reputational risk to Fortinet and raises concerns about the security posture of their products.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The core issue is an authentication bypass vulnerability (CWE-288) within FortiCloud SSO, allowing an attacker to bypass login authentication. This new vulnerability persists despite patches for previous, related SSO bypasses (CVE-2025-59718 and CVE-2025-59719), indicating a deeper architectural or implementation flaw in Fortinet's SSO mechanism. The exploitation relies on attackers having a FortiCloud account and a registered device, enabling them to leverage the bypass to access other users' devices.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately disable FortiCloud SSO authentication on all affected Fortinet devices until a verified patch is available and applied. Conduct a thorough forensic investigation for indicators of compromise on all internet-accessible Fortinet products to identify any unauthorized activity. Prioritize applying all available security updates and follow Fortinet's official guidance as soon as they are released to mitigate this critical vulnerability.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026</link>
     </item>
   </channel>
 </rss>
