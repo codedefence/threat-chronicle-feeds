@@ -5,228 +5,228 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 00:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 03:05:04 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title><![CDATA[OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation]]></title>
-      <category>AI/ML in Cybersecurity</category>
-      <pubDate>Sun, 01 Feb 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="false">a51ba844-cb19-4456-b485-0075d0e5ee38</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>OpenAI is preparing to roll out advertisements within ChatGPT, initially observed on Android platforms, while simultaneously asserting the trustworthiness of ChatGPT's answers. This move signals a shift in OpenAI's monetization strategy for its widely used AI chatbot.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses relying on ChatGPT for information or content generation may experience increased exposure to advertisements, potentially impacting user experience and the perceived neutrality of information. The introduction of ads could also raise concerns about data privacy and the potential for targeted advertising based on user queries, affecting brand reputation if not managed transparently.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The integration of advertisements is a strategic move by OpenAI to monetize its free and lower-tier ChatGPT services, aiming to generate revenue to support its operational costs and continued AI development. This aligns with a broader trend of tech companies seeking diverse income streams for popular platforms.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should evaluate their organizational reliance on ChatGPT and similar AI tools, considering the potential impact of embedded advertisements on data privacy and information integrity. Implement clear internal guidelines for AI tool usage, especially concerning sensitive data, and explore alternative, ad-free AI solutions or enterprise-grade subscriptions if concerns arise.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/</link>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough]]></title>
-      <category>AI/ML in Cybersecurity</category>
-      <pubDate>Sun, 01 Feb 2026 01:26:02 GMT</pubDate>
-      <guid isPermaLink="false">31f66a21-f225-44f8-b2a9-eee9782a7f7a</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>OpenAI is retiring its popular GPT-4o model along with several other models, including GPT-5 Instant, GPT-5 Thinking, GPT-4.1, GPT-4.1 mini, and o4-mini. This strategic decision indicates a consolidation of their model offerings, with GPT 5.2 being positioned as the primary successor.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses heavily reliant on the retired GPT models for their applications and services will face immediate operational disruption and potential development costs for migration. There is a risk of service degradation or incompatibility if the transition to GPT 5.2 is not seamless, potentially impacting customer experience and revenue streams.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The retirement of these models is driven by OpenAI's continuous innovation and optimization strategy, aiming to streamline their product portfolio and focus resources on more advanced and efficient models like GPT 5.2. This move likely reflects a belief that the newer model offers superior performance and capabilities, making older versions redundant.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executive teams should immediately assess their organization's reliance on the affected OpenAI models and initiate a migration plan to GPT 5.2 or alternative solutions. Prioritize communication with development teams and vendors to understand the timeline and potential impact of this change, ensuring business continuity and minimal disruption.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/</link>
-    </item>
-    <item>
-      <title><![CDATA[U.S. convicts ex-Google engineer for sending AI tech data to China]]></title>
-      <category>IAM/Zero Trust/Geopolitics</category>
-      <pubDate>Sat, 31 Jan 2026 17:33:42 GMT</pubDate>
-      <guid isPermaLink="false">bc8e8b62-b480-4a33-993d-4b05408ef60f</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A former Google software engineer, Linwei Ding, was convicted for stealing confidential AI supercomputer data from Google. He then secretly shared this proprietary information with Chinese technology companies, highlighting a significant insider threat and intellectual property theft incident.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident underscores the severe financial and reputational risks associated with insider threats and intellectual property theft. Businesses face potential loss of competitive advantage, significant R&D investment devaluation, and damage to their brand trust, especially in sensitive technological sectors.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The incident stemmed from a malicious insider exploiting privileged access to sensitive data, driven by personal gain or external incentives. Inadequate data loss prevention (DLP) measures and potentially insufficient monitoring of employee activities contributed to the prolonged exfiltration of critical intellectual property.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should prioritize implementing robust Data Loss Prevention (DLP) solutions and enhancing insider threat detection programs, including behavioral analytics. Strengthen access controls and regularly audit privileged user activities to safeguard critical intellectual property and mitigate espionage risks.</p>
-      ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/</link>
-    </item>
-    <item>
-      <title><![CDATA[Cloud storage payment scam floods inboxes with fake renewals]]></title>
+      <title><![CDATA[ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Sat, 31 Jan 2026 16:21:32 GMT</pubDate>
-      <guid isPermaLink="false">8632d4c4-ea09-44bc-87a9-679830f33fac</guid>
+      <pubDate>Sat, 28 Feb 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="false">09a134d3-63f9-4d17-b0ae-2c592c66c1f2</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A widespread cloud storage subscription scam is actively targeting users globally. This campaign uses deceptive emails to falsely warn recipients of impending data loss due to alleged payment failures, aiming to trick them into providing payment information.</p>
+        <p>A high-severity vulnerability, dubbed 'ClawJacked Flaw,' was discovered and fixed in OpenClaw AI agents. This flaw allowed malicious websites to hijack locally running AI agents via WebSocket connections. The vulnerability was inherent to the core OpenClaw system, not requiring any plugins or extensions.</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses face increased phishing risks, potentially leading to compromised employee credentials or financial losses if employees fall victim. This can also damage customer trust and brand reputation if their data is perceived to be at risk or if they are targeted by similar scams.</p>
+        <p>Businesses utilizing OpenClaw AI agents faced significant operational and reputational risks, including potential data breaches, unauthorized AI agent manipulation, and disruption of critical AI-driven processes. Exploitation could lead to financial losses due to compromised operations and remediation efforts, as well as damage to customer trust.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The scam exploits common user anxieties about data loss and leverages social engineering tactics to create a sense of urgency. The effectiveness of the campaign is due to its large scale and the use of convincing, albeit fake, payment failure notifications.</p>
+        <p>The root cause was a fundamental security flaw within the OpenClaw gateway's core system, allowing unauthorized WebSocket connections from malicious sites. This indicates a potential oversight in the initial security design or implementation of the AI agent's communication protocols, failing to adequately validate or restrict external connections.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Implement robust email security solutions with advanced phishing detection and DMARC enforcement. Conduct regular employee training on identifying and reporting phishing attempts, emphasizing the importance of verifying payment requests directly with service providers.</p>
+        <p>Immediately verify that all OpenClaw AI agent deployments are updated to the patched version to mitigate the 'ClawJacked Flaw.' Conduct a comprehensive security audit of all AI/ML systems to identify and address similar inherent vulnerabilities. Implement robust network segmentation and access controls to restrict unauthorized external access to internal AI infrastructure.</p>
       ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/</link>
+      <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
     </item>
     <item>
-      <title><![CDATA[Mandiant details how ShinyHunters abuse SSO to steal cloud data]]></title>
+      <title><![CDATA[Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Sat, 28 Feb 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="false">b527db9a-f5bf-4b17-b0d3-c755594e2586</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Nearly 3,000 Google Cloud API keys, intended for billing identification, were found exposed in client-side code. These exposed keys could be exploited to authenticate to sensitive Gemini AI endpoints, potentially allowing unauthorized access to private data. This vulnerability emerged after the enablement of the Gemini API.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses utilizing Google Cloud and Gemini APIs face significant data breach risks, leading to potential regulatory fines, reputational damage, and loss of customer trust. Operational disruptions could occur as organizations scramble to revoke compromised keys and secure their AI integrations. Financial implications include costs associated with incident response, forensic analysis, and potential legal liabilities.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The core issue stems from the exposure of API keys in client-side code, a common security misconfiguration. The problem was exacerbated by Google's API design, which allowed these billing-oriented keys to authenticate to sensitive Gemini endpoints, a capability likely unintended or overlooked during API enablement. Lack of stringent access controls and key management practices contributed to the widespread exposure.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Mandate an immediate audit of all Google Cloud API key deployments to identify and revoke any keys exposed in client-side code. Implement robust API key management policies, including the use of service accounts, API key restrictions, and secret management solutions. Educate development teams on secure API key handling best practices and integrate automated scanning tools to detect exposed credentials proactively.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute]]></title>
       <category>IAM/Zero Trust/Geopolitics</category>
-      <pubDate>Sat, 31 Jan 2026 15:02:12 GMT</pubDate>
-      <guid isPermaLink="false">bfbe71d5-26cc-4e06-a3c4-7aaec9c1b4ca</guid>
+      <pubDate>Sat, 28 Feb 2026 04:57:00 GMT</pubDate>
+      <guid isPermaLink="false">4e29d415-a13f-4824-aab5-1c81e2d42f5c</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>The ShinyHunters threat group is actively exploiting Single Sign-On (SSO) and Multi-Factor Authentication (MFA) through sophisticated vishing and branded phishing attacks. These attacks are designed to steal credentials and MFA codes, enabling unauthorized access to cloud-based Software-as-a-Service (SaaS) data.</p>
+        <p>The Pentagon has designated AI company Anthropic as a 'supply chain risk' following a dispute over the lawful use of its AI model, Claude. Anthropic refused to allow its AI to be used for mass domestic surveillance of Americans and fully autonomous weapons, leading to an impasse in negotiations.</p>
         
         <h3>Business Impact</h3>
-        <p>This directly impacts data confidentiality and integrity, leading to potential data breaches, regulatory fines, and significant reputational damage. Businesses face increased operational disruption and financial losses from incident response and potential legal actions.</p>
+        <p>This designation could severely impact Anthropic's ability to secure government contracts and partnerships, potentially leading to significant revenue loss and reputational damage. It also sets a precedent for other AI companies regarding ethical considerations and military applications, influencing future business models and partnerships.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The attacks leverage social engineering tactics, specifically vishing and highly convincing phishing sites, to bypass existing security controls like MFA. The primary vulnerability exploited is human susceptibility to targeted social engineering, allowing attackers to gain initial access to critical authentication mechanisms.</p>
+        <p>The core issue stems from a fundamental disagreement between Anthropic's ethical stance on AI usage (prohibiting mass surveillance and autonomous weapons) and the Pentagon's strategic interests. This highlights the growing tension between technological innovation, ethical AI development, and national security objectives.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Implement robust employee security awareness training focused on vishing and advanced phishing techniques, emphasizing the risks of sharing SSO/MFA credentials. Evaluate and enhance MFA solutions, considering phishing-resistant options like FIDO2, and enforce strict access controls based on Zero Trust principles for all cloud services.</p>
+        <p>Executives should re-evaluate their AI development and deployment strategies, ensuring clear ethical guidelines and use-case restrictions are established and communicated. Companies engaging with government entities must proactively address potential conflicts between ethical principles and national security requirements to mitigate supply chain risk designations.</p>
       ]]></description>
-      <link>https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/</link>
+      <link>https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html</link>
     </item>
     <item>
-      <title><![CDATA[eScan Antivirus Delivers Malware in Supply Chain Attack]]></title>
+      <title><![CDATA[DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Fri, 27 Feb 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="false">d12dcc6a-3540-47a9-9111-da5c1e3f01f4</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The U.S. Department of Justice (DoJ) successfully seized $61 million in Tether cryptocurrency directly linked to 'pig butchering' investment scams. These funds were identified in cryptocurrency addresses used for laundering proceeds stolen from victims of these fraudulent schemes.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This incident highlights the persistent threat of sophisticated cryptocurrency scams, which can lead to significant financial losses for individuals and businesses. For financial institutions and cryptocurrency platforms, it underscores the reputational risk and potential regulatory scrutiny associated with facilitating transactions for illicit activities, even unknowingly.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The 'pig butchering' scams exploit human trust through elaborate social engineering tactics, often involving long-term grooming of victims. The use of cryptocurrency, specifically Tether, provides a perceived layer of anonymity and ease of transfer for criminals, making it a preferred method for laundering stolen funds.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should prioritize enhanced employee and customer education on identifying and avoiding cryptocurrency investment scams. Implement robust anti-money laundering (AML) and know-your-customer (KYC) protocols, particularly for cryptocurrency transactions, to detect and prevent the flow of illicit funds. Collaborate with law enforcement and industry peers to share threat intelligence and best practices for combating financial fraud.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html</link>
+    </item>
+    <item>
+      <title><![CDATA[900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Fri, 27 Feb 2026 17:59:00 GMT</pubDate>
+      <guid isPermaLink="false">ff0ef72b-3194-404d-86ef-22f6e94a3d1f</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Over 900 Sangoma FreePBX instances globally, including 401 in the U.S., remain compromised with web shells. These attacks exploited a command injection vulnerability, initially detected in December 2023, allowing unauthorized access and control over affected systems.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses utilizing FreePBX are at severe risk of data breaches, operational disruption, and reputational damage. The presence of web shells grants attackers persistent access, potentially leading to further exploitation, data exfiltration, or the use of compromised systems for other malicious activities.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The primary cause is the exploitation of a command injection vulnerability within Sangoma FreePBX systems. This indicates a failure in timely patching or an unaddressed security flaw that allowed attackers to execute arbitrary commands and install web shells.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and patch all Sangoma FreePBX instances to mitigate the command injection vulnerability. Conduct thorough forensic analysis on all FreePBX systems to detect and remove any lingering web shells or backdoors, and implement enhanced monitoring for unusual activity on these systems.</p>
+      ]]></description>
+      <link>https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html</link>
+    </item>
+    <item>
+      <title><![CDATA[Chargemap chargemap.com]]></title>
       <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Sat, 31 Jan 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">a328d198-9374-44b9-ba20-8444577379b4</guid>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2d133226-6491-419e-ac0d-2334961be39b</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>eScan Antivirus, developed by MicroWorld Technologies, was compromised in a supply chain attack. Hackers infiltrated the company's update server and distributed a malicious file to eScan customers. This incident turned a trusted security product into a vector for malware delivery.</p>
+        <p>Multiple critical and high-severity vulnerabilities have been identified in Chargemap chargemap.com, affecting all versions of their electric vehicle charging station management platform. These vulnerabilities, including missing authentication, improper restriction of authentication attempts, insufficient session expiration, and insufficiently protected credentials, could allow attackers to gain unauthorized administrative control over charging stations or disrupt services through denial-of-service attacks. Chargemap has not responded to CISA's requests for coordination regarding these issues.</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses using eScan Antivirus are at high risk of malware infection, leading to potential data breaches, operational disruptions, and significant recovery costs. The incident severely damages trust in security vendors and their update mechanisms, impacting procurement decisions and increasing due diligence requirements. Reputational damage for MicroWorld Technologies is substantial, potentially leading to customer attrition and legal challenges.</p>
+        <p>Businesses relying on Chargemap's platform for EV charging infrastructure face significant operational risks, including potential service outages, unauthorized control of charging stations, and data corruption. This could lead to financial losses from disrupted services, reputational damage due to unreliable charging, and potential liability if compromised stations cause harm or data breaches. The lack of vendor response exacerbates the risk, leaving users without official patches or guidance.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The root cause was the compromise of MicroWorld Technologies' update server, indicating a potential vulnerability in their infrastructure or a lapse in their security protocols. This allowed attackers to inject malicious code into legitimate software updates. The incident highlights the critical importance of securing the software supply chain at every stage.</p>
+        <p>The vulnerabilities stem from fundamental security weaknesses in Chargemap's WebSocket endpoints and API, such as a lack of proper authentication mechanisms, absence of rate limiting for authentication attempts, predictable and easily hijackable session identifiers, and publicly accessible charging station authentication identifiers. These design flaws make the system susceptible to various attacks, from impersonation and data manipulation to brute-force attacks and denial-of-service.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Immediately verify the integrity of all eScan Antivirus installations and updates within your organization, and consider temporarily isolating affected systems. Conduct a thorough review of all third-party software supply chain security practices, especially for critical security tools. Implement robust internal security controls, including multi-factor authentication and network segmentation, to mitigate the impact of similar future compromises.</p>
+        <p>Organizations utilizing Chargemap services should immediately assess their exposure and implement defensive measures, including minimizing network exposure of control systems, isolating them behind firewalls, and using secure remote access methods like updated VPNs. Given the vendor's unresponsiveness, businesses should contact Chargemap directly for remediation information and consider alternative solutions or enhanced monitoring for suspicious activity on their charging infrastructure. A thorough risk assessment and impact analysis should precede any defensive deployments.</p>
       ]]></description>
-      <link>https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/</link>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05</link>
     </item>
     <item>
-      <title><![CDATA[Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists]]></title>
-      <category>IAM/Zero Trust/Geopolitics</category>
-      <pubDate>Sat, 31 Jan 2026 12:02:00 GMT</pubDate>
-      <guid isPermaLink="false">b95795be-98a5-43f0-8a05-afa3c0216929</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>An Iran-linked threat actor, RedKitten, is actively targeting human rights NGOs and activists, particularly those documenting abuses related to recent nationwide unrest in Iran. This campaign, observed in January 2026, leverages Farsi-speaking operatives to compromise targets.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations involved in human rights advocacy, journalism, or those with personnel operating in politically sensitive regions face significant reputational damage, data loss, and potential operational disruption. This also highlights the growing risk of state-sponsored cyber espionage against non-traditional targets.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The campaign is driven by Iranian state interests, likely aiming to suppress dissent, gather intelligence on opposition movements, and disrupt efforts to document human rights violations. The timing coincides with internal unrest, suggesting a direct response to perceived threats to the regime.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Implement enhanced security awareness training for employees, especially those in high-risk roles or regions, focusing on phishing and social engineering. Strengthen identity and access management (IAM) with multi-factor authentication (MFA) and consider adopting a Zero Trust architecture to limit lateral movement in case of a breach.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html</link>
-    </item>
-    <item>
-      <title><![CDATA[Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Sat, 31 Jan 2026 07:58:00 GMT</pubDate>
-      <guid isPermaLink="false">802b7aa5-3eff-4c8c-ba9f-b9fdac573ccc</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Mandiant has identified an increase in sophisticated vishing attacks, consistent with the ShinyHunters group, targeting organizations. These attacks employ voice phishing and fake credential harvesting sites to bypass multi-factor authentication (MFA) and gain unauthorized access to SaaS platforms. The primary goal appears to be data exfiltration and subsequent extortion.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses face significant financial and reputational risks due to potential data breaches, intellectual property theft, and operational disruptions. The compromise of SaaS platforms can lead to widespread data loss, regulatory fines, and a loss of customer trust, impacting long-term business viability.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The attacks exploit human vulnerabilities through social engineering (vishing) and leverage convincing fake login pages to trick users into divulging credentials and MFA codes. The increasing reliance on SaaS platforms and the sophistication of these phishing techniques contribute to the effectiveness of these breaches.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Implement robust employee training programs focused on identifying vishing and sophisticated phishing attempts, emphasizing the importance of verifying communication channels. Deploy advanced MFA solutions that are resistant to phishing, such as FIDO2-based security keys, and enhance endpoint detection and response (EDR) capabilities to quickly identify and neutralize suspicious activity.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html</link>
-    </item>
-    <item>
-      <title><![CDATA[CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms]]></title>
+      <title><![CDATA[Yokogawa CENTUM VP R6, R7]]></title>
       <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Sat, 31 Jan 2026 07:05:00 GMT</pubDate>
-      <guid isPermaLink="false">dcb03f3a-235e-46d1-b535-ac6551f0bb5f</guid>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">704ceb1d-2afe-4e89-9ec3-2320a88cce72</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>CERT Polska reported coordinated cyber attacks on over 30 wind and solar farms, a manufacturing company, and a large combined heat and power plant on December 29, 2025. These attacks targeted critical infrastructure and a private sector entity in Poland. The incident highlights a significant threat to operational technology (OT) environments.</p>
+        <p>Multiple vulnerabilities (CVE-2025-1924, CVE-2025-48019, CVE-2025-48020, CVE-2025-48021, CVE-2025-48022, CVE-2025-48023) have been identified in Yokogawa CENTUM VP R6 and R7, specifically affecting the Vnet/IP Interface Package. These vulnerabilities, with CVSS scores up to 6.9 (Medium severity), could allow an attacker to terminate software processes, cause denial-of-service, or execute arbitrary code through maliciously crafted packets.</p>
         
         <h3>Business Impact</h3>
-        <p>This incident demonstrates the potential for widespread disruption to critical energy infrastructure, leading to power outages and economic losses. For the manufacturing sector, such attacks can halt production, cause financial damage, and erode customer trust. The coordinated nature suggests a sophisticated adversary capable of impacting multiple sectors simultaneously.</p>
+        <p>Organizations utilizing Yokogawa CENTUM VP R6 and R7 in critical infrastructure sectors such as Manufacturing, Energy, and Food and Agriculture face significant operational risks. Successful exploitation could lead to system downtime, disruption of industrial processes, and potential safety hazards, resulting in substantial financial losses and reputational damage.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The attacks likely exploited vulnerabilities within the operational technology (OT) systems of these critical infrastructure entities. The coordination across multiple targets suggests a well-resourced and strategic attacker, potentially leveraging supply chain weaknesses or common system vulnerabilities. Specific root causes or exploited vulnerabilities are not detailed but are typical in such sophisticated attacks.</p>
+        <p>The vulnerabilities stem from various weaknesses including out-of-bounds write, reachable assertion, integer underflow, and improper handling of length parameters within the Vnet/IP Interface Package. While these vulnerabilities are not remotely exploitable and have high attack complexity, they highlight the persistent challenge of securing complex industrial control systems against sophisticated attacks.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Executives should prioritize comprehensive cybersecurity assessments of all OT/ICS environments, including third-party suppliers. Implement robust network segmentation, multi-factor authentication, and continuous monitoring for anomalous activity. Develop and regularly test incident response plans specifically tailored for OT/ICS environments to minimize downtime and recovery costs.</p>
+        <p>Immediately apply the recommended patch software (R1.08.00) provided by Yokogawa and consult their advisory YSAR-26-0002 for detailed mitigation steps. Additionally, reinforce network segmentation, place control systems behind firewalls, and use secure remote access methods like updated VPNs to minimize exposure and potential attack vectors.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/01/poland-attributes-december-cyber.html</link>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09</link>
     </item>
     <item>
-      <title><![CDATA[Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 30 Jan 2026 13:42:00 GMT</pubDate>
-      <guid isPermaLink="false">ef966ea0-1adc-4604-b105-c75166c960be</guid>
+      <title><![CDATA[Pelco, Inc. Sarix Pro 3 Series IP Cameras]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0806d04f-8f55-4c22-b825-4e7a6fce8018</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>Malicious Google Chrome extensions, such as 'Amazon Ads Blocker,' have been identified hijacking affiliate links, exfiltrating user data, and stealing OpenAI ChatGPT authentication tokens. These extensions, disguised as legitimate tools, compromise user privacy and financial interests through surreptitious activities.</p>
+        <p>Pelco, Inc. Sarix Pro 3 Series IP Cameras (versions <=02.52) are vulnerable to an authentication bypass (CVE-2026-1241) in their web management interface. This flaw allows unauthorized access to live video streams and sensitive device data due to inadequate access control enforcement. The vulnerability has a CVSS v3 score of 7.5 (High severity).</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses face significant reputational damage if their employees' compromised accounts are used for malicious activities or if sensitive company data is exfiltrated. Financial losses can occur through affiliate link hijacking, diverting revenue, and potential legal liabilities from data breaches.</p>
+        <p>Successful exploitation can lead to significant privacy breaches, operational risks, and regulatory compliance issues for organizations utilizing these cameras. Businesses in critical infrastructure sectors, such as Commercial Facilities, Energy, and Healthcare, are particularly at risk of surveillance control bypass and data exposure. Reputational damage and potential financial penalties from non-compliance are also major concerns.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The incident stems from users installing seemingly innocuous browser extensions that contain hidden malicious functionalities. The lack of stringent vetting for extensions in app stores and users' trust in advertised features contribute to the successful deployment and operation of these threats.</p>
+        <p>The root cause is an 'Authentication Bypass Using an Alternate Path or Channel' (CWE-288) within the camera's web management interface. This means the system fails to properly enforce authentication for certain functionalities, allowing attackers to access features without valid credentials. The flaw stems from inadequate security design or implementation in the access control mechanisms.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Implement strict policies regarding browser extension installations, recommending only pre-approved and vetted extensions. Conduct regular security awareness training for employees on the risks of untrusted software and the importance of verifying extension legitimacy before installation.</p>
+        <p>Organizations using affected Pelco Sarix Pro 3 Series IP Cameras must immediately update their camera firmware to version 02.53 or later to patch this vulnerability. Additionally, implement defensive measures such as minimizing network exposure, isolating control systems behind firewalls, and using secure VPNs for remote access. Conduct a thorough risk assessment to understand the specific impact on your infrastructure and ensure compliance.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html</link>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02</link>
+    </item>
+    <item>
+      <title><![CDATA[Copeland XWEB and XWEB Pro]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2a336a96-c7f8-47ec-b454-3253aa522150</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Multiple critical vulnerabilities have been identified in Copeland XWEB and XWEB Pro versions <=1.12.1, impacting industrial control systems globally. These vulnerabilities, including authentication bypass, OS command injection, arbitrary file read, and buffer overflow, could allow attackers to gain unauthorized access, execute arbitrary code, and cause denial-of-service conditions.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing affected Copeland XWEB products face significant operational risks, including potential disruption of critical commercial facilities, data compromise, and system downtime. Exploitation could lead to severe financial losses, reputational damage, and regulatory penalties due to compromised industrial processes.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerabilities stem from insecure coding practices, such as improper handling of return values in authentication routines, insufficient neutralization of special characters in OS commands, and lack of proper input validation. These flaws allow attackers to manipulate system functions and bypass security controls.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately update all Copeland XWEB and XWEB Pro devices to the latest patched version as recommended by Copeland. Additionally, implement defense-in-depth strategies, including network segmentation, robust firewall rules, and restricting internet exposure for control system devices, to minimize attack surface and potential impact.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10</link>
+    </item>
+    <item>
+      <title><![CDATA[EV Energy ev.energy]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">aa19c19a-f710-4604-8a55-527fa13465fc</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Multiple critical and high-severity vulnerabilities have been identified in EV Energy's ev.energy charging station software, affecting all versions globally. These vulnerabilities could allow attackers to gain unauthorized administrative control over charging stations, impersonate legitimate chargers, or disrupt services through denial-of-service attacks.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing EV Energy charging stations face significant operational risks, including service disruption, potential financial losses from unauthorized charging, and reputational damage due to compromised infrastructure. The lack of vendor response to CISA's coordination request exacerbates the risk, leaving users without immediate official patches.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerabilities stem from fundamental security flaws such as missing authentication for critical functions, insufficient session expiration, improper restriction of excessive authentication attempts, and insufficiently protected credentials. These weaknesses in the WebSocket endpoints and API allow for various attack vectors, including session hijacking and brute-force attacks.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately implement defensive measures, including isolating control system networks behind firewalls and minimizing internet exposure for all charging station devices. For remote access, mandate the use of secure VPNs, ensuring they are updated to the latest versions. Proactively contact EV Energy for updates on official patches and mitigation strategies.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07</link>
     </item>
   </channel>
 </rss>
