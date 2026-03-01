@@ -5,9 +5,31 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 03:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:05:04 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title><![CDATA[QuickLens Chrome extension steals crypto, shows ClickFix attack]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Sat, 28 Feb 2026 19:18:52 GMT</pubDate>
+      <guid isPermaLink="false">3471e812-d9a5-4e0c-a5d2-5ad1463047cf</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A malicious Chrome extension, 'QuickLens - Search Screen with Google Lens,' was compromised and removed from the Chrome Web Store. This extension was used to distribute malware and attempt to steal cryptocurrency from thousands of users through a 'ClickFix' attack.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses using compromised extensions face direct financial losses from crypto theft and potential data breaches. Reputational damage can occur if employees' compromised devices are linked to corporate networks, leading to a loss of customer trust and operational disruptions.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The incident highlights the risk of supply chain attacks targeting widely used software components like browser extensions. The compromise of a legitimate extension allowed attackers to leverage its established user base for malware distribution and crypto-stealing activities.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Implement strict policies for browser extension usage, allowing only pre-approved and vetted extensions. Conduct regular security audits of employee devices and enforce strong endpoint protection to detect and mitigate malware. Educate employees on the risks of untrusted software and social engineering tactics.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/</link>
+    </item>
     <item>
       <title><![CDATA[ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket]]></title>
       <category>Top Incident/Vulnerability</category>
@@ -29,6 +51,50 @@
         <p>Immediately verify that all OpenClaw AI agent deployments are updated to the patched version to mitigate the 'ClawJacked Flaw.' Conduct a comprehensive security audit of all AI/ML systems to identify and address similar inherent vulnerabilities. Implement robust network segmentation and access controls to restrict unauthorized external access to internal AI infrastructure.</p>
       ]]></description>
       <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
+    </item>
+    <item>
+      <title><![CDATA[$4.8M in crypto stolen after Korean tax agency exposes wallet seed]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Sat, 28 Feb 2026 15:17:23 GMT</pubDate>
+      <guid isPermaLink="false">5fdc7303-8608-4e14-b07a-756387471519</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>The South Korean National Tax Service inadvertently published the mnemonic recovery phrase for a seized cryptocurrency wallet in an official press release. This exposure allowed unauthorized actors to access and steal approximately $4.8 million worth of cryptocurrency from the wallet.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This incident highlights severe operational security failures, leading to a direct financial loss for the government agency and significant reputational damage. For businesses, such a breach underscores the critical need for robust internal controls and secure handling of sensitive digital assets, as similar mistakes could lead to substantial financial and trust erosion.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The root cause was a critical human error in publishing highly sensitive access credentials (a wallet seed phrase) in a public document. This indicates a severe lack of proper review processes, security awareness training, and potentially inadequate technical safeguards for handling digital asset recovery information.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives must mandate immediate reviews of all public disclosure processes to prevent accidental exposure of sensitive information, especially digital asset keys. Implement mandatory, recurring cybersecurity awareness training for all personnel handling sensitive data, and enforce multi-layered approval workflows for public releases.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/</link>
+    </item>
+    <item>
+      <title><![CDATA[Canadian Tire Data Breach Impacts 38 Million Accounts]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Sat, 28 Feb 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="false">9b842a7e-1195-44b2-9aab-7d60282a1769</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Canadian Tire experienced a significant data breach affecting 38 million customer accounts. The compromised data includes sensitive personal information such as names, addresses, email addresses, phone numbers, and encrypted passwords. This incident represents a major exposure of customer data for a prominent retailer.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This breach will likely result in substantial reputational damage for Canadian Tire, potentially eroding customer trust and loyalty. The company faces significant financial liabilities, including potential regulatory fines, legal costs from class-action lawsuits, and expenses related to identity theft protection services for affected customers. Operational disruptions may also occur due to incident response and remediation efforts.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>While the specific root cause is not detailed, data breaches of this scale often stem from vulnerabilities in web applications, unpatched systems, or sophisticated phishing attacks leading to credential compromise. Inadequate security controls, such as weak access management or insufficient data encryption practices, could also be contributing factors. The compromise of encrypted passwords suggests a potential failure in hashing or salting practices, or a broader system compromise allowing access to the encrypted data.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should immediately initiate a comprehensive third-party forensic investigation to identify the root cause and extent of the breach. Implement enhanced security measures, including multi-factor authentication for all customer accounts and robust data encryption for all sensitive information at rest and in transit. Develop and communicate a transparent incident response plan to affected customers, offering credit monitoring and identity theft protection services, to mitigate reputational damage and potential legal repercussions.</p>
+      ]]></description>
+      <link>https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/</link>
     </item>
     <item>
       <title><![CDATA[Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement]]></title>
@@ -75,158 +141,92 @@
       <link>https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html</link>
     </item>
     <item>
-      <title><![CDATA[DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams]]></title>
+      <title><![CDATA[Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology]]></title>
+      <category>Regulatory Compliance/Industry Impact</category>
+      <pubDate>Fri, 27 Feb 2026 21:30:55 GMT</pubDate>
+      <guid isPermaLink="false">3ae9cb39-1867-4a5d-9417-d3d8de312965</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Former President Trump has issued an order for all federal agencies to cease the use of technology developed by Anthropic. This directive highlights a potential shift in government procurement and reliance on specific AI vendors, despite other major AI companies like OpenAI, Google, and xAI having existing contracts with the military.</p>
+        
+        <h3>Business Impact</h3>
+        <p>This order could significantly impact Anthropic's revenue and market position within the federal sector, potentially leading to financial losses and reputational damage. For other AI providers, it signals the volatile nature of government contracts and the importance of political alignment or perceived national security interests. Businesses relying on Anthropic's technology within the federal supply chain will need to identify and implement alternative solutions, incurring operational costs and potential delays.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The article does not explicitly state the reasons behind Trump's order to phase out Anthropic technology. However, such directives often stem from concerns regarding national security, data privacy, intellectual property, or geopolitical considerations related to the vendor's ownership, development practices, or perceived foreign influence. It could also be a strategic move to favor other domestic AI providers.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Businesses currently utilizing Anthropic technology for federal contracts should immediately initiate a review of their systems and develop a transition plan to alternative, compliant AI solutions. Executives should also diversify their AI vendor portfolio to mitigate risks associated with sudden regulatory changes or political directives. Furthermore, companies seeking federal contracts should closely monitor evolving government policies and vendor preferences related to AI technology to ensure continued compliance and market access.</p>
+      ]]></description>
+      <link>https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/</link>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft testing Windows 11 batch file security improvements]]></title>
+      <category>Other Noteworthy News</category>
+      <pubDate>Fri, 27 Feb 2026 20:00:27 GMT</pubDate>
+      <guid isPermaLink="false">683ecafd-9567-4049-9b0e-01b8603fa16b</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Microsoft is introducing security and performance enhancements for batch file and CMD script execution in upcoming Windows 11 Insider Preview builds. These updates aim to mitigate risks associated with malicious script execution while improving system efficiency.</p>
+        
+        <h3>Business Impact</h3>
+        <p>These improvements will reduce the attack surface for script-based malware, potentially lowering the financial and operational costs associated with security incidents. Businesses relying heavily on Windows environments will benefit from enhanced system stability and security, minimizing disruption from script-borne threats.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>Batch files and CMD scripts have historically been a vector for malware and unauthorized system changes due to their direct access to system commands. Microsoft is addressing this by implementing more robust security controls and performance optimizations to counter evolving threat landscapes.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should ensure IT departments prioritize the adoption of these Windows 11 updates once generally available to leverage enhanced security features. Review and update internal policies regarding script execution and user permissions to align with the new security capabilities, further hardening endpoint defenses.</p>
+      ]]></description>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/</link>
+    </item>
+    <item>
+      <title><![CDATA[APT37 hackers use new malware to breach air-gapped networks]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 27 Feb 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="false">d12dcc6a-3540-47a9-9111-da5c1e3f01f4</guid>
+      <pubDate>Fri, 27 Feb 2026 19:21:25 GMT</pubDate>
+      <guid isPermaLink="false">0f375ca3-7973-4f77-93c7-cfe073bb810d</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>The U.S. Department of Justice (DoJ) successfully seized $61 million in Tether cryptocurrency directly linked to 'pig butchering' investment scams. These funds were identified in cryptocurrency addresses used for laundering proceeds stolen from victims of these fraudulent schemes.</p>
+        <p>The North Korean APT37 threat group is utilizing new malware to exfiltrate data from air-gapped networks. This sophisticated attack vector involves using removable drives to bridge the air gap, enabling covert surveillance and data transfer from isolated systems.</p>
         
         <h3>Business Impact</h3>
-        <p>This incident highlights the persistent threat of sophisticated cryptocurrency scams, which can lead to significant financial losses for individuals and businesses. For financial institutions and cryptocurrency platforms, it underscores the reputational risk and potential regulatory scrutiny associated with facilitating transactions for illicit activities, even unknowingly.</p>
+        <p>This development poses a significant risk to organizations with highly sensitive data stored on air-gapped networks, as it undermines a fundamental security control. Potential impacts include intellectual property theft, espionage, and severe reputational damage due to compromised critical infrastructure or classified information.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The 'pig butchering' scams exploit human trust through elaborate social engineering tactics, often involving long-term grooming of victims. The use of cryptocurrency, specifically Tether, provides a perceived layer of anonymity and ease of transfer for criminals, making it a preferred method for laundering stolen funds.</p>
+        <p>The success of these attacks relies on social engineering to introduce infected removable media into secure environments and the exploitation of human trust. The new malware specifically targets the unique challenges of air-gapped systems, demonstrating a persistent and adaptive adversary.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Executives should prioritize enhanced employee and customer education on identifying and avoiding cryptocurrency investment scams. Implement robust anti-money laundering (AML) and know-your-customer (KYC) protocols, particularly for cryptocurrency transactions, to detect and prevent the flow of illicit funds. Collaborate with law enforcement and industry peers to share threat intelligence and best practices for combating financial fraud.</p>
+        <p>Executives should mandate enhanced security protocols for all removable media, including strict scanning and usage policies. Invest in advanced endpoint detection and response (EDR) solutions capable of identifying novel malware on isolated systems, and conduct regular, rigorous security awareness training for all personnel, especially those with access to air-gapped networks.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html</link>
+      <link>https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/</link>
     </item>
     <item>
-      <title><![CDATA[900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks]]></title>
+      <title><![CDATA[Europol-led crackdown on The Com hackers leads to 30 arrests]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 27 Feb 2026 17:59:00 GMT</pubDate>
-      <guid isPermaLink="false">ff0ef72b-3194-404d-86ef-22f6e94a3d1f</guid>
+      <pubDate>Fri, 27 Feb 2026 18:20:15 GMT</pubDate>
+      <guid isPermaLink="false">10df9633-02e5-4164-8069-1c5088a06ecf</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>Over 900 Sangoma FreePBX instances globally, including 401 in the U.S., remain compromised with web shells. These attacks exploited a command injection vulnerability, initially detected in December 2023, allowing unauthorized access and control over affected systems.</p>
+        <p>A year-long Europol-led operation, 'Project Compass,' has resulted in 30 arrests and identified 179 suspects linked to 'The Com,' a cybercrime collective. This group specifically targeted children and teenagers online, indicating a significant law enforcement success against a particularly heinous form of cybercrime.</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses utilizing FreePBX are at severe risk of data breaches, operational disruption, and reputational damage. The presence of web shells grants attackers persistent access, potentially leading to further exploitation, data exfiltration, or the use of compromised systems for other malicious activities.</p>
+        <p>While not directly impacting corporate networks, this operation highlights the pervasive nature of cybercrime and the potential for reputational damage if an organization's platforms are exploited for such activities. Businesses, especially those with user-generated content or social features, must be vigilant in protecting their user base, particularly minors, to avoid association with such illicit activities and potential legal repercussions.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The primary cause is the exploitation of a command injection vulnerability within Sangoma FreePBX systems. This indicates a failure in timely patching or an unaddressed security flaw that allowed attackers to execute arbitrary commands and install web shells.</p>
+        <p>The existence of 'The Com' underscores the persistent threat of online criminal collectives leveraging digital platforms for illegal activities. The success of 'Project Compass' was due to international law enforcement cooperation and sustained investigative efforts to dismantle the network and apprehend its members.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and patch all Sangoma FreePBX instances to mitigate the command injection vulnerability. Conduct thorough forensic analysis on all FreePBX systems to detect and remove any lingering web shells or backdoors, and implement enhanced monitoring for unusual activity on these systems.</p>
+        <p>Executives should ensure robust online safety protocols are in place, especially for platforms accessible to minors, including content moderation and reporting mechanisms. Invest in advanced threat intelligence to identify and mitigate potential misuse of company platforms by criminal elements, and maintain strong relationships with law enforcement for proactive threat sharing and response.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html</link>
-    </item>
-    <item>
-      <title><![CDATA[Chargemap chargemap.com]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2d133226-6491-419e-ac0d-2334961be39b</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Multiple critical and high-severity vulnerabilities have been identified in Chargemap chargemap.com, affecting all versions of their electric vehicle charging station management platform. These vulnerabilities, including missing authentication, improper restriction of authentication attempts, insufficient session expiration, and insufficiently protected credentials, could allow attackers to gain unauthorized administrative control over charging stations or disrupt services through denial-of-service attacks. Chargemap has not responded to CISA's requests for coordination regarding these issues.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses relying on Chargemap's platform for EV charging infrastructure face significant operational risks, including potential service outages, unauthorized control of charging stations, and data corruption. This could lead to financial losses from disrupted services, reputational damage due to unreliable charging, and potential liability if compromised stations cause harm or data breaches. The lack of vendor response exacerbates the risk, leaving users without official patches or guidance.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerabilities stem from fundamental security weaknesses in Chargemap's WebSocket endpoints and API, such as a lack of proper authentication mechanisms, absence of rate limiting for authentication attempts, predictable and easily hijackable session identifiers, and publicly accessible charging station authentication identifiers. These design flaws make the system susceptible to various attacks, from impersonation and data manipulation to brute-force attacks and denial-of-service.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Organizations utilizing Chargemap services should immediately assess their exposure and implement defensive measures, including minimizing network exposure of control systems, isolating them behind firewalls, and using secure remote access methods like updated VPNs. Given the vendor's unresponsiveness, businesses should contact Chargemap directly for remediation information and consider alternative solutions or enhanced monitoring for suspicious activity on their charging infrastructure. A thorough risk assessment and impact analysis should precede any defensive deployments.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05</link>
-    </item>
-    <item>
-      <title><![CDATA[Yokogawa CENTUM VP R6, R7]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">704ceb1d-2afe-4e89-9ec3-2320a88cce72</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Multiple vulnerabilities (CVE-2025-1924, CVE-2025-48019, CVE-2025-48020, CVE-2025-48021, CVE-2025-48022, CVE-2025-48023) have been identified in Yokogawa CENTUM VP R6 and R7, specifically affecting the Vnet/IP Interface Package. These vulnerabilities, with CVSS scores up to 6.9 (Medium severity), could allow an attacker to terminate software processes, cause denial-of-service, or execute arbitrary code through maliciously crafted packets.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing Yokogawa CENTUM VP R6 and R7 in critical infrastructure sectors such as Manufacturing, Energy, and Food and Agriculture face significant operational risks. Successful exploitation could lead to system downtime, disruption of industrial processes, and potential safety hazards, resulting in substantial financial losses and reputational damage.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerabilities stem from various weaknesses including out-of-bounds write, reachable assertion, integer underflow, and improper handling of length parameters within the Vnet/IP Interface Package. While these vulnerabilities are not remotely exploitable and have high attack complexity, they highlight the persistent challenge of securing complex industrial control systems against sophisticated attacks.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately apply the recommended patch software (R1.08.00) provided by Yokogawa and consult their advisory YSAR-26-0002 for detailed mitigation steps. Additionally, reinforce network segmentation, place control systems behind firewalls, and use secure remote access methods like updated VPNs to minimize exposure and potential attack vectors.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09</link>
-    </item>
-    <item>
-      <title><![CDATA[Pelco, Inc. Sarix Pro 3 Series IP Cameras]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0806d04f-8f55-4c22-b825-4e7a6fce8018</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Pelco, Inc. Sarix Pro 3 Series IP Cameras (versions <=02.52) are vulnerable to an authentication bypass (CVE-2026-1241) in their web management interface. This flaw allows unauthorized access to live video streams and sensitive device data due to inadequate access control enforcement. The vulnerability has a CVSS v3 score of 7.5 (High severity).</p>
-        
-        <h3>Business Impact</h3>
-        <p>Successful exploitation can lead to significant privacy breaches, operational risks, and regulatory compliance issues for organizations utilizing these cameras. Businesses in critical infrastructure sectors, such as Commercial Facilities, Energy, and Healthcare, are particularly at risk of surveillance control bypass and data exposure. Reputational damage and potential financial penalties from non-compliance are also major concerns.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The root cause is an 'Authentication Bypass Using an Alternate Path or Channel' (CWE-288) within the camera's web management interface. This means the system fails to properly enforce authentication for certain functionalities, allowing attackers to access features without valid credentials. The flaw stems from inadequate security design or implementation in the access control mechanisms.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Organizations using affected Pelco Sarix Pro 3 Series IP Cameras must immediately update their camera firmware to version 02.53 or later to patch this vulnerability. Additionally, implement defensive measures such as minimizing network exposure, isolating control systems behind firewalls, and using secure VPNs for remote access. Conduct a thorough risk assessment to understand the specific impact on your infrastructure and ensure compliance.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02</link>
-    </item>
-    <item>
-      <title><![CDATA[Copeland XWEB and XWEB Pro]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2a336a96-c7f8-47ec-b454-3253aa522150</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Multiple critical vulnerabilities have been identified in Copeland XWEB and XWEB Pro versions <=1.12.1, impacting industrial control systems globally. These vulnerabilities, including authentication bypass, OS command injection, arbitrary file read, and buffer overflow, could allow attackers to gain unauthorized access, execute arbitrary code, and cause denial-of-service conditions.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing affected Copeland XWEB products face significant operational risks, including potential disruption of critical commercial facilities, data compromise, and system downtime. Exploitation could lead to severe financial losses, reputational damage, and regulatory penalties due to compromised industrial processes.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerabilities stem from insecure coding practices, such as improper handling of return values in authentication routines, insufficient neutralization of special characters in OS commands, and lack of proper input validation. These flaws allow attackers to manipulate system functions and bypass security controls.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately update all Copeland XWEB and XWEB Pro devices to the latest patched version as recommended by Copeland. Additionally, implement defense-in-depth strategies, including network segmentation, robust firewall rules, and restricting internet exposure for control system devices, to minimize attack surface and potential impact.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10</link>
-    </item>
-    <item>
-      <title><![CDATA[EV Energy ev.energy]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">aa19c19a-f710-4604-8a55-527fa13465fc</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Multiple critical and high-severity vulnerabilities have been identified in EV Energy's ev.energy charging station software, affecting all versions globally. These vulnerabilities could allow attackers to gain unauthorized administrative control over charging stations, impersonate legitimate chargers, or disrupt services through denial-of-service attacks.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing EV Energy charging stations face significant operational risks, including service disruption, potential financial losses from unauthorized charging, and reputational damage due to compromised infrastructure. The lack of vendor response to CISA's coordination request exacerbates the risk, leaving users without immediate official patches.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerabilities stem from fundamental security flaws such as missing authentication for critical functions, insufficient session expiration, improper restriction of excessive authentication attempts, and insufficiently protected credentials. These weaknesses in the WebSocket endpoints and API allow for various attack vectors, including session hijacking and brute-force attacks.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately implement defensive measures, including isolating control system networks behind firewalls and minimizing internet exposure for all charging station devices. For remote access, mandate the use of secure VPNs, ensuring they are updated to the latest versions. Proactively contact EV Energy for updates on official patches and mitigation strategies.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07</link>
+      <link>https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/</link>
     </item>
   </channel>
 </rss>
