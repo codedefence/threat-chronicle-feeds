@@ -5,7 +5,7 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 03:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 06:05:06 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -73,6 +73,50 @@
         <p>Immediately apply the latest security patches provided by Palo Alto Networks for all affected PAN-OS GlobalProtect VPN instances. Conduct an urgent audit of VPN logs for any signs of compromise or unauthorized access attempts. Implement multi-factor authentication (MFA) on all VPN access points as an additional layer of defense, even if not directly mitigating this specific bypass.</p>
       ]]></description>
       <link>https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/</link>
+    </item>
+    <item>
+      <title><![CDATA[Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say]]></title>
+      <category>IAM/Zero Trust/Geopolitics</category>
+      <pubDate>Sat, 30 May 2026 16:00:49 GMT</pubDate>
+      <guid isPermaLink="false">116c04f0-ff77-4973-9a60-895cce94aea0</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Russian intelligence agencies are intensifying efforts to acquire Western technology, circumventing sanctions by establishing front companies, recruiting intermediaries, and deploying cyber espionage. These activities aim to bolster Russia's technological capabilities and potentially facilitate attacks on critical infrastructure.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses, particularly those in critical infrastructure sectors or with advanced technological assets, face increased risks of intellectual property theft, supply chain compromise, and cyberattacks. This could lead to significant financial losses, operational disruptions, and severe reputational damage if their technology is exploited by adversarial states.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The aggressive pursuit of Western technology is a direct consequence of international sanctions imposed on Russia, which have limited their access to crucial components and expertise. This has forced Russia to resort to illicit means, leveraging espionage and cyber operations to overcome these restrictions.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Executives should enhance their organization's cybersecurity posture, focusing on robust intellectual property protection, supply chain security, and advanced threat detection. Implement comprehensive insider threat programs and conduct regular security awareness training to mitigate risks from espionage and social engineering.</p>
+      ]]></description>
+      <link>https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/</link>
+    </item>
+    <item>
+      <title><![CDATA[Exploit Code Published for Critical Flowise RCE Vulnerability]]></title>
+      <category>Top Incident/Vulnerability</category>
+      <pubDate>Sat, 30 May 2026 15:55:59 GMT</pubDate>
+      <guid isPermaLink="false">fe46296f-20cc-4cb5-81ec-c61b49b82344</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>Exploit code has been publicly released for a critical Remote Code Execution (RCE) vulnerability in Flowise, an open-source low-code platform for AI applications. This 'one-click' vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow. The public availability of exploit code significantly increases the immediate threat to unpatched systems.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Businesses utilizing self-hosted Flowise instances face a severe risk of data breaches, system compromise, and operational disruption. A successful RCE attack could lead to unauthorized access to sensitive data, intellectual property theft, and the deployment of ransomware or other malware, resulting in significant financial losses, reputational damage, and potential regulatory fines.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability stems from an insecure handling of imported chatflows, allowing malicious code to be embedded and executed upon import. This highlights a common security flaw in platforms that allow user-generated or imported content without robust sanitization and validation mechanisms, enabling client-side actions to escalate to server-side compromise.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and patch all self-hosted Flowise instances to the latest secure version. Implement strict controls and user education regarding the import of external chatflows, treating them as untrusted sources. Conduct an urgent security audit of all systems integrated with Flowise to detect any signs of compromise.</p>
+      ]]></description>
+      <link>https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/</link>
     </item>
     <item>
       <title><![CDATA[New CIFSwitch Linux flaw gives root on multiple distributions]]></title>
@@ -183,50 +227,6 @@
         <p>Businesses should educate employees on the risks of AI-generated content and the potential for sophisticated phishing attacks leveraging platforms like ChatGPT. Implement robust email and web security solutions capable of detecting and blocking advanced phishing attempts, even those originating from seemingly legitimate sources. Pressure AI vendors, including OpenAI, to implement stronger input validation and content sanitization mechanisms to mitigate such vulnerabilities.</p>
       ]]></description>
       <link>https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html</link>
-    </item>
-    <item>
-      <title><![CDATA[Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit]]></title>
-      <category>AI/ML in Cybersecurity</category>
-      <pubDate>Fri, 29 May 2026 14:39:56 GMT</pubDate>
-      <guid isPermaLink="false">8d704364-1162-4b17-aa29-e884eb927db3</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>An unknown threat actor exploited a Marimo notebook via CVE-2026-39987 to gain initial access. Following this compromise, the attacker utilized a large language model (LLM) agent to automate and execute post-exploitation activities, including the extraction of cloud credentials.</p>
-        
-        <h3>Business Impact</h3>
-        <p>This incident highlights a significant escalation in attacker capabilities, as LLM agents can accelerate and sophisticated post-compromise actions, leading to faster data exfiltration and deeper network penetration. Businesses face increased financial risk from potential data breaches and operational disruption due to the enhanced efficiency of such attacks.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The primary cause was the exploitation of a publicly accessible Marimo network through CVE-2026-39987, indicating a failure in timely patching or vulnerability management. The novel use of an LLM agent for post-exploitation demonstrates attackers' rapid adoption of advanced AI tools to enhance their attack chains.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Executives should prioritize immediate patching for known vulnerabilities, especially those impacting internet-facing systems like Marimo. Invest in advanced threat detection and response capabilities that can identify anomalous AI-driven post-exploitation behaviors, and conduct regular security audits of AI/ML systems and their integration points.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</link>
-    </item>
-    <item>
-      <title><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2375e7d0-caec-46db-88ed-5fe0307d1052</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>CISA has updated its Known Exploited Vulnerabilities (KEV) Catalog by adding CVE-2026-0257, a Palo Alto Networks PAN-OS Authentication Bypass Vulnerability. This addition signifies active exploitation of this vulnerability in the wild, posing a significant risk to federal and other organizations.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations, particularly those utilizing Palo Alto Networks PAN-OS, face immediate operational and reputational risks due to potential unauthorized access and data breaches. Failure to remediate this vulnerability can lead to service disruptions, financial losses from incident response, and damage to customer trust.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability, CVE-2026-0257, is an authentication bypass in Palo Alto Networks PAN-OS, allowing malicious actors to circumvent security controls. Its inclusion in the KEV Catalog confirms that threat actors are actively leveraging this flaw as a frequent attack vector.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and patch all instances of Palo Alto Networks PAN-OS to mitigate CVE-2026-0257. Implement a robust vulnerability management program that prioritizes remediation of all KEV Catalog vulnerabilities, aligning with CISA's recommendations for all organizations.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
     </item>
   </channel>
 </rss>
