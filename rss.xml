@@ -5,228 +5,228 @@
     <link>https://cybersec-intelligence.com</link>
     <description>Top 10 cybersecurity news focused on executive decision-making</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:05:06 GMT</lastBuildDate>
     <atom:link href="https://cybersec-intelligence.com/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title><![CDATA[PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 30 Apr 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="false">8ec5d7e6-afe8-44a9-9d6d-1f89a3c10ea3</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>Threat actors compromised the popular Python package PyTorch Lightning, pushing two malicious versions (2.6.2 and 2.6.3) on April 30, 2026. These versions were designed to conduct credential theft, impacting users who downloaded and integrated them into their systems. This represents a significant software supply chain attack targeting widely used development tools.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Businesses utilizing PyTorch Lightning or Intercom-client are at high risk of credential compromise, leading to potential data breaches, unauthorized system access, and financial losses. The operational disruption from identifying and remediating compromised systems, coupled with reputational damage from a security incident, can be substantial. This incident underscores the broader risk of relying on third-party software components.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The attack exploited vulnerabilities in the software supply chain, likely through compromised developer accounts or build systems, allowing malicious versions to be published to a legitimate package repository. This highlights insufficient security controls within the software distribution ecosystem and the ease with which trusted components can be weaponized. The specific method of compromise (e.g., credential stuffing, social engineering) is not detailed but points to a failure in access control or authentication.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately audit all systems for installations of PyTorch Lightning versions 2.6.2 and 2.6.3 and Intercom-client, and quarantine or remove them. Implement robust software supply chain security practices, including integrity checks for third-party libraries, dependency scanning, and multi-factor authentication for all developer accounts. Furthermore, educate development teams on the risks of supply chain attacks and the importance of verifying software sources.</p>
-      ]]></description>
-      <link>https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html</link>
-    </item>
-    <item>
-      <title><![CDATA[ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories]]></title>
+      <title><![CDATA[Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Thu, 30 Apr 2026 13:55:00 GMT</pubDate>
-      <guid isPermaLink="false">71296926-1774-4c78-9c86-3c837a695a3b</guid>
+      <pubDate>Sun, 31 May 2026 12:22:12 GMT</pubDate>
+      <guid isPermaLink="false">2d11eb45-7468-4e50-ba27-24707094ce50</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>This week has seen a surge in cyber threats, including the use of fake cell towers for SMS phishing campaigns and developers inadvertently installing malicious tools that compromise private files. Additionally, significant vulnerabilities were identified in OpenEMR, and over 600,000 Roblox accounts were reportedly compromised. A concerning number of servers are also exposed online without password protection.</p>
+        <p>Dutch authorities successfully dismantled a massive botnet comprising at least 17 million infected devices, including computers, smartphones, and IoT devices. This sophisticated network utilized over 200 servers within the Netherlands to orchestrate various malicious attacks. The operation was a collaborative effort by the Dutch Politie and the National Cyber Security Center (NCSC).</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses face increased financial and reputational risks from sophisticated phishing attacks and potential data breaches due to compromised software and unsecure infrastructure. Operational disruptions can arise from system compromises, and the loss of customer trust can have long-term negative effects. The exposure of sensitive data, especially in healthcare (OpenEMR), carries severe compliance and legal consequences.</p>
+        <p>Businesses face significant operational and reputational risks from such botnets, as their devices can be unknowingly co-opted for cyberattacks, leading to service disruptions, data breaches, and potential legal liabilities. The presence of company devices within such networks can also degrade network performance and consume valuable bandwidth, impacting productivity and customer experience.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The incidents stem from a combination of advanced attacker tactics, such as deploying fake cell towers, and fundamental security weaknesses like developers downloading untrusted tools. The prevalence of unpatched vulnerabilities (OpenEMR) and basic security hygiene failures, such as servers lacking password protection, create widespread attack surfaces. User susceptibility to social engineering also remains a critical contributing factor.</p>
+        <p>The widespread infection indicates a reliance on unpatched vulnerabilities in operating systems and applications, coupled with inadequate security practices by device owners, particularly concerning IoT devices. Lack of robust endpoint security, user awareness, and timely software updates likely contributed to the botnet's extensive reach and longevity.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Executives should mandate a comprehensive review of all external-facing systems for password protection and implement multi-factor authentication across all critical accounts. Invest in advanced threat detection and prevention solutions, particularly for phishing and supply chain attacks. Furthermore, establish mandatory security awareness training for all employees, focusing on identifying sophisticated social engineering tactics and safe software installation practices.</p>
+        <p>Implement a comprehensive patch management program across all endpoints and IoT devices to address known vulnerabilities promptly. Enhance employee cybersecurity training to recognize and avoid phishing attempts and suspicious downloads, which are common infection vectors. Invest in advanced endpoint detection and response (EDR) solutions to proactively identify and neutralize compromised devices within the corporate network.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html</link>
+      <link>https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html</link>
     </item>
     <item>
-      <title><![CDATA[New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials]]></title>
+      <title><![CDATA[PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Thu, 30 Apr 2026 12:36:00 GMT</pubDate>
-      <guid isPermaLink="false">c7a85938-690f-4404-85e7-753d5350fd48</guid>
+      <pubDate>Sat, 30 May 2026 06:41:26 GMT</pubDate>
+      <guid isPermaLink="false">a2010852-320f-4b7a-8633-4302caf48e93</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A new Python-based backdoor, DEEP#DOOR, has been discovered that establishes persistent access and steals sensitive data, including browser and cloud credentials. The attack initiates with a batch script disabling Windows security and extracting a Python payload. This sophisticated backdoor utilizes a tunneling service to exfiltrate stolen information.</p>
+        <p>Palo Alto Networks has issued a warning regarding active exploitation of CVE-2026-0257, a medium-severity authentication bypass vulnerability affecting PAN-OS and Prisma Access. This flaw allows unauthorized actors to establish VPN connections, potentially gaining access to internal networks. The vulnerability has a CVSS score of 7.8, indicating a significant risk.</p>
         
         <h3>Business Impact</h3>
-        <p>Businesses face significant financial and reputational risks due to potential data breaches involving sensitive credentials. Compromised cloud accounts can lead to further network penetration, intellectual property theft, and operational disruptions. Remediation efforts and potential regulatory fines will incur substantial costs.</p>
+        <p>Organizations utilizing affected Palo Alto Networks products face immediate operational disruption and potential data breaches due to unauthorized network access. This could lead to significant financial losses from incident response, regulatory fines, and reputational damage. Business continuity is at risk if critical systems are compromised through these unauthorized VPN connections.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The attack exploits initial execution through a batch script, likely via phishing or compromised downloads, which then disables security controls. The use of a Python-based backdoor allows for stealthy operation and dynamic extraction, bypassing traditional defenses. The tunneling service further complicates detection and attribution of data exfiltration.</p>
+        <p>The incident stems from an authentication bypass vulnerability within PAN-OS and Prisma Access, allowing attackers to circumvent security controls designed to verify user identity. This type of flaw typically arises from insecure coding practices or logical errors in the authentication mechanism. The active exploitation suggests that the vulnerability is relatively easy to leverage by malicious actors.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Implement robust endpoint detection and response (EDR) solutions with behavioral analysis capabilities to detect stealthy scripts and backdoor activity. Enhance employee training on phishing awareness and secure browsing practices to prevent initial compromise. Mandate multi-factor authentication (MFA) for all cloud services and critical systems to mitigate the impact of stolen credentials.</p>
+        <p>Immediately identify and patch all affected Palo Alto Networks PAN-OS and Prisma Access instances to mitigate the vulnerability. Implement enhanced monitoring for unusual VPN connection attempts and network access patterns. Review and strengthen existing access control policies and consider multi-factor authentication for all VPN access points.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html</link>
+      <link>https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html</link>
     </item>
     <item>
-      <title><![CDATA[ABB AWIN Gateways]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b506e2b6-d812-481b-98a7-b94549105e09</guid>
+      <title><![CDATA[ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface]]></title>
+      <category>AI/ML in Cybersecurity</category>
+      <pubDate>Fri, 29 May 2026 18:07:12 GMT</pubDate>
+      <guid isPermaLink="false">d1d80a4f-f6f4-4014-93f2-0b82761884d9</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>Multiple vulnerabilities (CVE-2025-13777, CVE-2025-13778, CVE-2025-13779) have been identified in ABB AWIN Gateways, affecting various firmware versions. These vulnerabilities could allow unauthenticated attackers to remotely reboot devices, leading to denial of service, or to reveal sensitive system configuration details.</p>
+        <p>A vulnerability dubbed 'ChatGPhish' has been discovered in OpenAI's ChatGPT, allowing attackers to exploit the AI's implicit trust in Markdown links and images. This enables prompt injection attacks, turning ChatGPT's web summaries into a phishing surface. Attackers can embed malicious links or content that the AI then presents as legitimate.</p>
         
         <h3>Business Impact</h3>
-        <p>Organizations utilizing affected ABB AWIN Gateways face significant operational risks, including potential system downtime due to remote reboots and compromise of sensitive configuration data. This could lead to production interruptions, data breaches, and reputational damage, particularly for those in critical manufacturing sectors.</p>
+        <p>This vulnerability poses a significant reputational risk for businesses relying on ChatGPT for content generation or summarization, as it can inadvertently spread phishing attempts. Employees using ChatGPT for work-related tasks could be exposed to malicious content, increasing the risk of data breaches and financial losses through successful phishing campaigns. It also undermines trust in AI-generated content, potentially impacting operational efficiency.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The vulnerabilities stem from authentication bypass issues (CWE-294) and missing authentication for critical functions (CWE-306). These design flaws allow unauthenticated queries to execute privileged actions or access sensitive information without proper validation.</p>
+        <p>The root cause lies in ChatGPT's renderer implicitly trusting Markdown links and images without sufficient validation or sanitization. This trust allows attackers to craft malicious inputs that are then rendered by the AI as legitimate, effectively bypassing security controls. The vulnerability exploits the AI's design to interpret and present information, rather than a traditional software flaw.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Immediately apply the provided firmware updates (ABB AWIN Firmware 2.1-0 for GW100 rev. 2 and 2.0-0 for GW120) to all affected ABB AWIN Gateways. Additionally, implement robust network segmentation, restrict internet access to control systems, and utilize secure remote access methods like updated VPNs to minimize exploitation risk.</p>
+        <p>Businesses should educate employees on the risks of AI-generated content and the potential for sophisticated phishing attacks leveraging platforms like ChatGPT. Implement robust email and web security solutions capable of detecting and blocking advanced phishing attempts, even those originating from seemingly legitimate sources. Pressure AI vendors, including OpenAI, to implement stronger input validation and content sanitization mechanisms to mitigate such vulnerabilities.</p>
       ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05</link>
+      <link>https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html</link>
     </item>
     <item>
-      <title><![CDATA[ABB Ability OPTIMAX]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">8a0289e2-5b91-4d9c-be04-1453b6a163a7</guid>
+      <title><![CDATA[Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit]]></title>
+      <category>AI/ML in Cybersecurity</category>
+      <pubDate>Fri, 29 May 2026 14:39:56 GMT</pubDate>
+      <guid isPermaLink="false">8d704364-1162-4b17-aa29-e884eb927db3</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A critical vulnerability (CVE-2025-14510) has been identified in ABB Ability OPTIMAX versions 6.1, 6.2, and specific builds of 6.3 and 6.4. This flaw allows an attacker to bypass user authentication when the system uses Azure Active Directory Single-Sign On, potentially granting unauthorized access to critical industrial control systems.</p>
+        <p>An unknown threat actor exploited a Marimo notebook via CVE-2026-39987 to gain initial access. Following this compromise, the attacker utilized a large language model (LLM) agent to automate and execute post-exploitation activities, including the extraction of cloud credentials.</p>
         
         <h3>Business Impact</h3>
-        <p>Organizations in the Energy and Water/Wastewater sectors using affected ABB Ability OPTIMAX installations face a high risk of unauthorized system access, leading to potential operational disruption, data manipulation, or safety incidents. The global deployment of this software means a widespread impact on critical infrastructure, potentially incurring significant financial losses from downtime and reputational damage.</p>
+        <p>This incident highlights a significant escalation in attacker capabilities, as LLM agents can accelerate and sophisticated post-compromise actions, leading to faster data exfiltration and deeper network penetration. Businesses face increased financial risk from potential data breaches and operational disruption due to the enhanced efficiency of such attacks.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The vulnerability stems from an 'Incorrect Implementation of Authentication Algorithm' (CWE-303) within the ABB Ability OPTIMAX software, specifically affecting its integration with Azure Active Directory Single-Sign On. This design flaw allows an attacker to circumvent the intended authentication process, despite the high attack complexity.</p>
+        <p>The primary cause was the exploitation of a publicly accessible Marimo network through CVE-2026-39987, indicating a failure in timely patching or vulnerability management. The novel use of an LLM agent for post-exploitation demonstrates attackers' rapid adoption of advanced AI tools to enhance their attack chains.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and update all affected ABB Ability OPTIMAX installations to version 6.3.1-251120 or later. Implement defense-in-depth strategies, including network segmentation and strict firewall rules, to minimize network exposure of control systems. Review and enhance incident response plans for potential authentication bypass scenarios.</p>
+        <p>Executives should prioritize immediate patching for known vulnerabilities, especially those impacting internet-facing systems like Marimo. Invest in advanced threat detection and response capabilities that can identify anomalous AI-driven post-exploitation behaviors, and conduct regular security audits of AI/ML systems and their integration points.</p>
       ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04</link>
-    </item>
-    <item>
-      <title><![CDATA[ABB PCM600]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d085bf42-8f59-41b7-85a5-2272df5e8941</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A vulnerability (CVE-2018-1002208) has been identified in ABB PCM600 versions 1.5 through 2.13, which could allow an attacker to execute arbitrary code by sending specially crafted messages. This vulnerability, categorized as a 'Path Traversal' issue, affects critical manufacturing sectors globally.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Exploitation of this vulnerability could lead to operational disruptions, unauthorized control over industrial systems, and potential data integrity issues within critical manufacturing environments. While the CVSS score is 4.4 (Medium severity) and remote exploitation is not possible, the impact on operational technology (OT) systems could be severe, potentially affecting production and safety.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability stems from an 'Improper Limitation of a Pathname to a Restricted Directory' (Path Traversal) within the SharpZip.dll component of ABB PCM600. This allows an attacker, with local access and high attack complexity, to insert and run arbitrary code by manipulating file paths.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Organizations using affected ABB PCM600 versions should update to version 2.14 immediately. For systems incompatible with the update (e.g., RE_630 protection relays), implement robust system-level defenses, including network segmentation, firewalls, and secure remote access via VPNs, to mitigate potential exploitation.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02</link>
-    </item>
-    <item>
-      <title><![CDATA[ABB Edgenius Management Portal]]></title>
-      <category>Supply Chain/OT/ICS Security</category>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">6386cabc-77bd-473e-bbab-32bb16edfaab</guid>
-      <description><![CDATA[
-        <h3>What Happened?</h3>
-        <p>A critical vulnerability (CVE-2025-10571) has been identified in ABB Edgenius Management Portal versions 3.2.0.0 and 3.2.1.1. This flaw allows an attacker to bypass authentication by sending a specially crafted message, enabling them to install and execute arbitrary code, uninstall applications, and modify configurations on the system node.</p>
-        
-        <h3>Business Impact</h3>
-        <p>Organizations utilizing the affected ABB Edgenius Management Portal face a high risk of operational disruption, data integrity issues, and potential compromise of critical manufacturing and information technology systems. Successful exploitation could lead to unauthorized control over industrial processes, significant financial losses due to downtime, and severe reputational damage.</p>
-        
-        
-        <h3>Why It Happened</h3>
-        <p>The vulnerability stems from an authentication bypass flaw (CWE-288) within the Edgenius Management Portal. While not remotely exploitable over the internet, an attacker who has already gained network access where Edgenius is deployed can leverage this weakness to achieve full system compromise.</p>
-        
-        
-        <h3>Recommended Executive Action</h3>
-        <p>Immediately upgrade all affected ABB Edgenius Management Portal installations to version 3.2.2.0 or later. If immediate upgrade is not feasible, disable the Edgenius Management Portal as a temporary mitigation. Furthermore, reinforce network segmentation and implement robust access controls to prevent unauthorized network access to critical control systems.</p>
-      ]]></description>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03</link>
+      <link>https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</link>
     </item>
     <item>
       <title><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
       <category>Top Incident/Vulnerability</category>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bd3cff84-091d-4fa7-92a9-5413ec089211</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2375e7d0-caec-46db-88ed-5fe0307d1052</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>CISA has added one new vulnerability, CVE-2026-41940, to its Known Exploited Vulnerabilities (KEV) Catalog. This vulnerability, affecting WebPros cPanel & WHM and WP2 (WordPress Squared), is a 'Missing Authentication for Critical Function' flaw that is actively being exploited.</p>
+        <p>CISA has updated its Known Exploited Vulnerabilities (KEV) Catalog by adding CVE-2026-0257, a Palo Alto Networks PAN-OS Authentication Bypass Vulnerability. This addition signifies active exploitation of this vulnerability in the wild, posing a significant risk to federal and other organizations.</p>
         
         <h3>Business Impact</h3>
-        <p>Organizations, especially those using cPanel/WHM or WordPress Squared, face significant operational and reputational risks due to potential exploitation. Failure to remediate can lead to unauthorized access, data breaches, and service disruptions, incurring financial losses and damaging customer trust.</p>
+        <p>Organizations, particularly those utilizing Palo Alto Networks PAN-OS, face immediate operational and reputational risks due to potential unauthorized access and data breaches. Failure to remediate this vulnerability can lead to service disruptions, financial losses from incident response, and damage to customer trust.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The vulnerability stems from a critical function lacking proper authentication, allowing malicious actors to bypass security controls. This type of flaw is a frequent attack vector because it provides an easy entry point for attackers to gain unauthorized access to systems.</p>
+        <p>The vulnerability, CVE-2026-0257, is an authentication bypass in Palo Alto Networks PAN-OS, allowing malicious actors to circumvent security controls. Its inclusion in the KEV Catalog confirms that threat actors are actively leveraging this flaw as a frequent attack vector.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Immediately identify and patch all instances of WebPros cPanel & WHM and WP2 to mitigate CVE-2026-41940. Implement a robust vulnerability management program that prioritizes remediation of all KEV Catalog vulnerabilities, even if not a federal entity, to reduce overall cyberattack exposure.</p>
+        <p>Immediately identify and patch all instances of Palo Alto Networks PAN-OS to mitigate CVE-2026-0257. Implement a robust vulnerability management program that prioritizes remediation of all KEV Catalog vulnerabilities, aligning with CISA's recommendations for all organizations.</p>
       ]]></description>
-      <link>https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <link>https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog</link>
     </item>
     <item>
-      <title><![CDATA[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Thu, 30 Apr 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="false">5d4382db-83dc-4a82-aadc-55365b5f2691</guid>
+      <title><![CDATA[New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks]]></title>
+      <category>IAM/Zero Trust/Geopolitics</category>
+      <pubDate>Fri, 29 May 2026 11:31:59 GMT</pubDate>
+      <guid isPermaLink="false">56178df0-4e74-4a41-85d4-b5e1fd939db0</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A new sophisticated campaign, dubbed EtherRAT, is targeting high-privilege enterprise accounts (administrators, DevOps, security analysts) by distributing malware disguised as legitimate administrative tools. The attackers are leveraging Search Engine Optimization (SEO) to promote malicious GitHub repositories, tricking users into downloading the malware.</p>
+        <p>A new Russia-linked threat actor, GREYVIBE, has been identified conducting AI-powered cyberattacks against Ukraine and related entities since August 2025. This group is assessed to be Russian-speaking and operating in alignment with Kremlin state interests, indicating state-sponsored activity.</p>
         
         <h3>Business Impact</h3>
-        <p>This campaign poses a significant risk of data breaches, system compromise, and operational disruption for targeted organizations. The compromise of high-privilege accounts can lead to extensive network access, intellectual property theft, and severe reputational damage.</p>
+        <p>Organizations with ties to Ukraine or operating in sectors of interest to Russian state actors face increased risk of sophisticated, AI-enhanced cyberattacks. This could lead to significant data breaches, operational disruptions, and reputational damage, particularly for those involved in critical infrastructure or government support.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The attackers are exploiting the trust users place in legitimate-looking administrative tools and the effectiveness of SEO poisoning to distribute their malware. The reliance on GitHub as a platform for tool distribution also contributes to the perceived legitimacy of the malicious files.</p>
+        <p>The attacks are driven by geopolitical motivations, specifically aligning with Russian state interests in the ongoing conflict with Ukraine. The use of AI-powered techniques suggests an evolution in adversary capabilities, aiming for more efficient and evasive attack methods.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Implement robust multi-factor authentication for all administrative and high-privilege accounts. Conduct regular security awareness training for all employees, especially those with elevated privileges, on identifying phishing and social engineering attempts. Deploy advanced endpoint detection and response (EDR) solutions to detect and prevent the execution of malicious software.</p>
+        <p>Executives should prioritize enhancing cyber defenses, particularly for AI-powered attack detection and response capabilities. Implement robust threat intelligence sharing, conduct regular security audits, and ensure incident response plans are updated to address state-sponsored, AI-enhanced threats.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html</link>
+      <link>https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html</link>
     </item>
     <item>
-      <title><![CDATA[New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions]]></title>
-      <category>Top Incident/Vulnerability</category>
-      <pubDate>Thu, 30 Apr 2026 09:24:00 GMT</pubDate>
-      <guid isPermaLink="false">77eb186e-7ea1-4b2f-877b-b9e60ccd9390</guid>
+      <title><![CDATA[ABB EIBPORT]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">61c550fe-a819-4e97-b3d5-e9ea92e790c0</guid>
       <description><![CDATA[
         <h3>What Happened?</h3>
-        <p>A new high-severity Linux local privilege escalation (LPE) vulnerability, 'Copy Fail' (CVE-2026-31431, CVSS 7.8), has been discovered. This flaw allows an unprivileged local user to gain root access on major Linux distributions by manipulating the page cache of readable files. This effectively grants full control over affected systems.</p>
+        <p>ABB has identified and patched a critical vulnerability (CVE-2021-22291) in multiple versions of its EIBPORT V3 KNX building management system. This vulnerability, classified as Cross-site Scripting (XSS), could allow an attacker to gain unauthorized access to sensitive device information and alter configurations.</p>
         
         <h3>Business Impact</h3>
-        <p>This vulnerability poses a significant risk to organizations relying on Linux systems, including servers, cloud infrastructure, and development environments. Successful exploitation could lead to data breaches, system compromise, and disruption of critical services, resulting in financial losses, reputational damage, and potential regulatory fines. Operational continuity could be severely impacted.</p>
+        <p>Organizations utilizing affected ABB EIBPORT devices face significant operational and reputational risks, including unauthorized control over building automation systems and potential data breaches. Failure to apply the firmware update could lead to system compromise, disruption of critical manufacturing or IT operations, and regulatory non-compliance.</p>
         
         
         <h3>Why It Happened</h3>
-        <p>The 'Copy Fail' vulnerability stems from a flaw in how Linux handles page cache operations, allowing an unprivileged user to write controlled data into the cache of any readable file. This fundamental design or implementation oversight in the kernel's memory management or file system interaction creates an avenue for privilege escalation.</p>
+        <p>The vulnerability stems from improper neutralization of input during web page generation, specifically a flaw in the session management of vulnerable EIBPORT firmware versions. This allows an attacker to obtain a copy of the session ID, bypassing authentication, particularly if the device is improperly exposed to the internet.</p>
         
         
         <h3>Recommended Executive Action</h3>
-        <p>Organizations should immediately identify and patch all Linux systems to mitigate CVE-2026-31431 as updates become available from distribution vendors. Implement robust intrusion detection and prevention systems to monitor for exploitation attempts. Furthermore, review and strengthen access controls to minimize the impact of any successful local privilege escalation.</p>
+        <p>Immediately apply the available firmware update to all affected ABB EIBPORT V3 KNX devices to remediate CVE-2021-22291. Additionally, enforce strict network segmentation, firewall configurations, and ensure EIBPORT devices are not directly accessible from the internet, adhering to recommended industrial control system security practices.</p>
       ]]></description>
-      <link>https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html</link>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03</link>
+    </item>
+    <item>
+      <title><![CDATA[Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1446d36e-48b3-42c2-b8eb-aae54168da34</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A critical vulnerability (CVE-2026-7786) has been identified in the Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter, specifically version 7.03T.07. This vulnerability involves the use of hard-coded administrative credentials embedded in the device's firmware, which can be extracted and used by attackers to gain full administrative access.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Successful exploitation could lead to unauthorized control over critical manufacturing systems, causing operational disruptions, data breaches, and potential safety hazards. Organizations using these devices face significant reputational damage and financial losses due to system downtime and remediation efforts, particularly given the vendor's unresponsiveness to coordination attempts.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability stems from poor security practices by the manufacturer, Jinan USR IOT Technology Limited (PUSR), specifically the embedding of plaintext administrative credentials directly into the device firmware. This oversight allows for easy extraction and misuse of these credentials, bypassing standard authentication mechanisms.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately identify and isolate all PUSR USR-W610 devices within the network, especially those in critical manufacturing environments. Implement robust network segmentation, place these devices behind firewalls, and restrict internet exposure. Furthermore, explore alternative, more secure converter solutions from vendors with better security postures and responsiveness to vulnerability disclosures.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02</link>
+    </item>
+    <item>
+      <title><![CDATA[ABB Busch-Welcome 2 Wire Door Opener Actuator]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3a063afc-2564-468d-ae5f-305b3ba8183e</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>ABB has identified a critical vulnerability (CVE-2025-7705) in its Busch-Welcome 2 Wire Door Opener Actuator, affecting all versions of the Switch Actuator 4 DU and Switch actuator, door/light 4 DU. This vulnerability, stemming from active debug code and an authentication bypass due to a default compatibility mode, could allow an attacker to gain unauthorized physical access to buildings where the product is installed.</p>
+        
+        <h3>Business Impact</h3>
+        <p>Organizations utilizing these ABB door opener actuators face significant security risks, including potential unauthorized physical entry, theft, or sabotage, leading to financial losses, operational disruption, and severe reputational damage. The compromise of physical security systems can also incur regulatory fines and increased insurance premiums.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The vulnerability is primarily due to 'Active Debug Code' (CWE-489) and an authentication bypass caused by a compatibility mode enabled by default in the affected devices. This design flaw allows an attacker to exploit the system without requiring authentication, highlighting inadequate security-by-design practices in the product's development.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Immediately apply the provided mitigation steps by toggling the mode switch and performing a power reset on all affected ABB Busch-Welcome systems to recalibrate and correct the misconfiguration. Additionally, implement CISA's recommended practices, including minimizing network exposure for control systems, isolating them behind firewalls, and using secure remote access methods like VPNs.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04</link>
+    </item>
+    <item>
+      <title><![CDATA[Fourth Frontier Frontier X Mobile Application, Frontier X2]]></title>
+      <category>Supply Chain/OT/ICS Security</category>
+      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f0d4529e-849b-4607-ab53-2f15100d248e</guid>
+      <description><![CDATA[
+        <h3>What Happened?</h3>
+        <p>A critical vulnerability (CVE-2026-5768) has been identified in Fourth Frontier Frontier X Mobile Application and Frontier X2 devices, allowing unauthenticated Bluetooth Low Energy (BLE) read/write access to critical device functions. This flaw enables attackers within BLE range to control device operations, including starting/stopping activities, triggering vibrations, causing denial-of-service, and injecting fabricated health telemetry into the mobile application.</p>
+        
+        <h3>Business Impact</h3>
+        <p>For healthcare providers and users of these devices, this vulnerability poses a significant risk of patient harm due to manipulated clinical readings and potential device compromise. It could lead to misdiagnosis, inappropriate treatment, and severe reputational damage for Fourth Frontier and any associated medical institutions. Operational disruptions and potential legal liabilities are also considerable concerns.</p>
+        
+        
+        <h3>Why It Happened</h3>
+        <p>The core issue is a 'Missing Authentication for Critical Function' (CWE-306) in the Frontier X2 device and mobile application. The device allows unauthenticated BLE access to critical GATT characteristics, and the mobile application lacks proper BLE device authentication, enabling attackers to impersonate legitimate devices and inject false data.</p>
+        
+        
+        <h3>Recommended Executive Action</h3>
+        <p>Organizations utilizing Fourth Frontier Frontier X devices should immediately contact Fourth Frontier for a fix and ensure users connect their devices to the official app before starting activities. Implement robust network segmentation, firewalls, and secure remote access (VPNs) for all control system devices, and conduct thorough risk assessments before deploying any medical IoT devices.</p>
+      ]]></description>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01</link>
     </item>
   </channel>
 </rss>
